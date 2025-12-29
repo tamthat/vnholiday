@@ -1,74 +1,293 @@
 {
   "solar": [
-    { "id": "holiday-solar-newyear", "title": "Tết Dương Lịch", "date": "01-01" },
-    { "id": "holiday-solar-students", "title": "Ngày Truyền thống Học sinh Sinh viên", "date": "01-09" },
-    { "id": "holiday-solar-party", "title": "Ngày thành lập Đảng Cộng sản Việt Nam", "date": "02-03" },
-    { "id": "holiday-solar-valentine", "title": "Lễ tình nhân (Valentine)", "date": "02-14" },
-    { "id": "holiday-solar-physician", "title": "Ngày Thầy thuốc Việt Nam", "date": "02-27" },
-    { "id": "holiday-solar-women-int", "title": "Quốc tế Phụ nữ", "date": "03-08" },
-    { "id": "holiday-solar-happy", "title": "Ngày Quốc tế Hạnh phúc", "date": "03-20" },
-    { "id": "holiday-solar-water", "title": "Ngày Nước Thế giới (World Water Day)", "date": "03-22" },
-    { "id": "holiday-solar-meteo", "title": "Ngày Khí tượng Thế giới (World Met Day)", "date": "03-23" },
-    { "id": "holiday-solar-youth", "title": "Thành lập Đoàn TNCS Hồ Chí Minh", "date": "03-26" },
-    { "id": "holiday-solar-sports", "title": "Ngày Thể thao Việt Nam", "date": "03-27" },
-    { "id": "holiday-solar-aprilfools", "title": "Ngày Cá tháng Tư", "date": "04-01" },
-    { "id": "holiday-solar-earth", "title": "Ngày Trái đất (Earth Day)", "date": "04-22" },
-    { "id": "holiday-solar-liberation", "title": "Ngày Giải phóng Miền Nam", "date": "04-30" },
-    { "id": "holiday-solar-labor", "title": "Ngày Quốc tế Lao động", "date": "05-01" },
-    { "id": "holiday-solar-dienbien", "title": "Chiến thắng Điện Biên Phủ", "date": "05-07" },
-    { "id": "holiday-solar-hochiminh", "title": "Ngày sinh Chủ tịch Hồ Chí Minh", "date": "05-19" },
-    { "id": "holiday-solar-disaster", "title": "Ngày Truyền thống Phòng chống Thiên tai VN", "date": "05-22" },
-    { "id": "holiday-solar-children", "title": "Quốc tế Thiếu nhi", "date": "06-01" },
-    { "id": "holiday-solar-environment", "title": "Ngày Môi trường Thế giới", "date": "06-05" },
-    { "id": "holiday-solar-ocean", "title": "Ngày Đại dương Thế giới", "date": "06-08" },
-    { "id": "holiday-solar-journalism", "title": "Ngày Báo chí Cách mạng Việt Nam", "date": "06-21" },
-    { "id": "holiday-solar-family", "title": "Ngày Gia đình Việt Nam", "date": "06-28" },
-    { "id": "holiday-solar-martyrs", "title": "Ngày Thương binh Liệt sĩ", "date": "07-27" },
-    { "id": "holiday-solar-revolution", "title": "Cách mạng Tháng Tám & CAND", "date": "08-19" },
-    { "id": "holiday-solar-national", "title": "Ngày Quốc khánh", "date": "09-02" },
-    { "id": "holiday-solar-elderly", "title": "Ngày Quốc tế Người cao tuổi", "date": "10-01" },
-    { "id": "holiday-solar-kttv", "title": "Ngày Truyền thống ngành Khí tượng Thủy văn VN", "date": "10-03" },
-    { "id": "holiday-solar-capital", "title": "Ngày Giải phóng Thủ đô", "date": "10-10" },
-    { "id": "holiday-solar-business", "title": "Ngày Doanh nhân Việt Nam", "date": "10-13" },
-    { "id": "holiday-solar-farmers", "title": "Thành lập Hội Nông dân Việt Nam", "date": "10-14" },
-    { "id": "holiday-solar-women-vn", "title": "Ngày Phụ nữ Việt Nam", "date": "10-20" },
-    { "id": "holiday-solar-halloween", "title": "Lễ hội Halloween", "date": "10-31" },
-    { "id": "holiday-solar-law", "title": "Ngày Pháp luật Việt Nam", "date": "11-09" },
-    { "id": "holiday-solar-teacher", "title": "Ngày Nhà giáo Việt Nam", "date": "11-20" },
-    { "id": "holiday-solar-redcross", "title": "Thành lập Hội Chữ thập đỏ Việt Nam", "date": "11-23" },
-    { "id": "holiday-solar-army", "title": "Ngày Thành lập QĐND VN", "date": "12-22" },
-    { "id": "holiday-solar-xmas", "title": "Lễ Giáng sinh (Noel)", "date": "12-25" },
-    { "id": "holiday-solar-population", "title": "Ngày Dân số Việt Nam", "date": "12-26" }
+    {
+      "id": "holiday-solar-newyear",
+      "title": "Tết Dương Lịch",
+      "date": "01-01",
+      "story": "Tết Dương lịch, hay còn gọi là Tết Tây, là ngày đầu tiên của năm theo lịch Gregory. Đây là sự kiện đánh dấu sự khởi đầu của một chu kỳ vận hành mới của Trái Đất quanh Mặt Trời. Tại Việt Nam, đây là ngày nghỉ lễ chính thức, là thời điểm để tổng kết năm cũ và lên kế hoạch cho năm mới. Trong lĩnh vực khí tượng thủy văn, đây thường là thời điểm tổng kết số liệu niên giám của năm cũ và bắt đầu chuỗi số liệu quan trắc cho niên giám mới."
+    },
+    {
+      "id": "holiday-solar-students",
+      "title": "Ngày Truyền thống Học sinh Sinh viên",
+      "date": "01-09",
+      "story": "Ngày 09/01/1950, đoàn thanh niên cứu quốc và học sinh sinh viên Sài Gòn - Chợ Lớn đã biểu tình đòi bảo đảm an ninh cho học sinh, sinh viên học tập và trả tự do cho những học sinh bị bắt. Cuộc đàn áp đẫm máu của thực dân Pháp và sự hy sinh anh dũng của học sinh Trần Văn Ơn đã thổi bùng ngọn lửa đấu tranh. Ngày này trở thành biểu tượng cho tinh thần yêu nước và trí tuệ của tuổi trẻ Việt Nam."
+    },
+    {
+      "id": "holiday-solar-party",
+      "title": "Ngày thành lập Đảng Cộng sản Việt Nam",
+      "date": "02-03",
+      "story": "Ngày 03/02/1930, tại Hương Cảng (Trung Quốc), dưới sự chủ trì của lãnh tụ Nguyễn Ái Quốc, Hội nghị hợp nhất các tổ chức cộng sản đã thống nhất thành lập Đảng Cộng sản Việt Nam. Đây là bước ngoặt lịch sử trọng đại, chấm dứt thời kỳ khủng hoảng về đường lối cứu nước. Đối với các nhà quản lý và khoa học, đây là dịp quán triệt các nghị quyết về phát triển bền vững đất nước, trong đó có chiến lược bảo vệ tài nguyên thiên nhiên."
+    },
+    {
+      "id": "holiday-solar-physician",
+      "title": "Ngày Thầy thuốc Việt Nam",
+      "date": "02-27",
+      "story": "Ngày 27/02/1955, Chủ tịch Hồ Chí Minh đã gửi thư cho Hội nghị cán bộ y tế, căn dặn: 'Lương y phải như từ mẫu'. Từ đó, ngày này trở thành ngày tôn vinh đội ngũ y bác sĩ và những người làm công tác y tế. Đây là dịp để xã hội tri ân những cống hiến thầm lặng trong việc chăm sóc sức khỏe nhân dân, đặc biệt là vai trò y tế dự phòng trong bối cảnh biến đổi khí hậu ảnh hưởng đến sức khỏe cộng đồng."
+    },
+    {
+      "id": "holiday-solar-women-int",
+      "title": "Quốc tế Phụ nữ",
+      "date": "03-08",
+      "story": "Bắt nguồn từ các phong trào đấu tranh của nữ công nhân Mỹ cuối thế kỷ 19, ngày 8/3 được Liên Hợp Quốc công nhận là ngày tôn vinh quyền bình đẳng và những đóng góp của phụ nữ. Tại Việt Nam, ngày này còn gợi nhớ đến cuộc khởi nghĩa Hai Bà Trưng - hai vị nữ vương đầu tiên trong lịch sử dân tộc, thể hiện tinh thần bất khuất của phụ nữ Việt Nam."
+    },
+    {
+      "id": "holiday-solar-water",
+      "title": "Ngày Nước Thế giới (World Water Day)",
+      "date": "03-22",
+      "story": "Được đề xuất tại Hội nghị Thượng đỉnh Trái đất (Rio de Janeiro, 1992), Liên Hợp Quốc chọn ngày 22/3 hàng năm để nâng cao nhận thức về tầm quan trọng của nước ngọt. Đối với chuyên gia thủy văn như chủ nhân, đây là ngày trọng đại để nhấn mạnh Mục tiêu Phát triển Bền vững số 6 (SDG 6): Nước sạch và vệ sinh cho tất cả mọi người. Mỗi năm có một chủ đề riêng (như Nước ngầm, Nước cho hòa bình...) nhằm giải quyết các thách thức về an ninh nguồn nước toàn cầu."
+    },
+    {
+      "id": "holiday-solar-meteo",
+      "title": "Ngày Khí tượng Thế giới (World Met Day)",
+      "date": "03-23",
+      "story": "Ngày 23/3/1950, Công ước thành lập Tổ chức Khí tượng Thế giới (WMO) chính thức có hiệu lực. Ngày này tôn vinh đóng góp của các cơ quan khí tượng thủy văn quốc gia trong việc bảo vệ sinh mạng và tài sản trước thiên tai. Chủ đề hàng năm thường xoay quanh cảnh báo sớm, hành động sớm và sự hiểu biết về hệ thống khí hậu Trái đất - những lĩnh vực mà chuyên môn GIS và viễn thám của chủ nhân đóng vai trò then chốt."
+    },
+    {
+      "id": "holiday-solar-youth",
+      "title": "Thành lập Đoàn TNCS Hồ Chí Minh",
+      "date": "03-26",
+      "story": "Được thành lập ngày 26/3/1931, Đoàn TNCS Hồ Chí Minh là tổ chức chính trị - xã hội của thanh niên Việt Nam. Đây là lực lượng xung kích trong mọi mặt trận, từ bảo vệ tổ quốc đến nghiên cứu khoa học. Trong ngành tài nguyên môi trường, lực lượng đoàn viên thường đi đầu trong các phong trào ứng dụng công nghệ mới, chuyển đổi số và các chiến dịch làm sạch môi trường."
+    },
+    {
+      "id": "holiday-solar-earth",
+      "title": "Ngày Trái đất (Earth Day)",
+      "date": "04-22",
+      "story": "Ngày Trái Đất được khởi xướng bởi Thượng nghị sĩ Hoa Kỳ Gaylord Nelson vào năm 1970 như một cuộc hội thảo về môi trường. Hiện nay, sự kiện này được điều phối toàn cầu bởi Mạng lưới Ngày Trái Đất, thu hút hơn 1 tỷ người tham gia. Đây là dịp để các chuyên gia môi trường công bố các báo cáo về biến đổi khí hậu, ô nhiễm nhựa và kêu gọi các chính sách bảo vệ hành tinh xanh."
+    },
+    {
+      "id": "holiday-solar-liberation",
+      "title": "Ngày Giải phóng Miền Nam",
+      "date": "04-30",
+      "story": "Ngày 30/4/1975, xe tăng của Quân đội Nhân dân Việt Nam húc đổ cổng Dinh Độc Lập, đánh dấu sự kết thúc thắng lợi của cuộc kháng chiến chống Mỹ cứu nước, thống nhất non sông. Đây là mốc son chói lọi trong lịch sử dân tộc, mở ra kỷ nguyên độc lập, thống nhất và đi lên chủ nghĩa xã hội. Toàn dân được nghỉ lễ để kỷ niệm chiến thắng vĩ đại này."
+    },
+    {
+      "id": "holiday-solar-labor",
+      "title": "Ngày Quốc tế Lao động",
+      "date": "05-01",
+      "story": "Kỷ niệm cuộc bãi công của công nhân Chicago (Mỹ) năm 1886 đòi ngày làm việc 8 giờ. Ngày 1/5 trở thành ngày hội của giai cấp công nhân và nhân dân lao động trên toàn thế giới, biểu dương sức mạnh của tình đoàn kết quốc tế. Tại Việt Nam, ngay sau khi Cách mạng Tháng Tám thành công, Chủ tịch Hồ Chí Minh đã ký sắc lệnh coi đây là một trong những ngày đại lễ của dân tộc."
+    },
+    {
+      "id": "holiday-solar-dienbien",
+      "title": "Chiến thắng Điện Biên Phủ",
+      "date": "05-07",
+      "story": "Chiến thắng Điện Biên Phủ 'lừng lẫy năm châu, chấn động địa cầu' năm 1954 đã đập tan pháo đài khổng lồ của thực dân Pháp, buộc chúng phải ký Hiệp định Genève. Chiến thắng này không chỉ chấm dứt ách đô hộ của thực dân Pháp tại Đông Dương mà còn là nguồn cổ vũ to lớn cho phong trào giải phóng dân tộc trên toàn thế giới."
+    },
+    {
+      "id": "holiday-solar-hochiminh",
+      "title": "Ngày sinh Chủ tịch Hồ Chí Minh",
+      "date": "05-19",
+      "story": "Ngày 19/5/1890 là ngày sinh của Chủ tịch Hồ Chí Minh - vị lãnh tụ thiên tài, anh hùng giải phóng dân tộc, danh nhân văn hóa thế giới. Người đã dành trọn cuộc đời cho sự nghiệp giải phóng dân tộc và hạnh phúc của nhân dân. Các ngành khoa học kỹ thuật thường chọn dịp này để báo công dâng Bác, nhớ lại những lời dạy của Người về công tác trị thủy và bảo vệ thiên nhiên."
+    },
+    {
+      "id": "holiday-solar-disaster",
+      "title": "Ngày Truyền thống Phòng chống Thiên tai VN",
+      "date": "05-22",
+      "story": "Ngày 22/5/1946, Chủ tịch Hồ Chí Minh đã ký Sắc lệnh số 70/SL thành lập Ủy ban Trung ương Hộ đê, tiền thân của Ban Chỉ đạo Quốc gia về Phòng chống thiên tai ngày nay. Đây là ngày đặc biệt quan trọng đối với ngành thủy lợi và thủy văn, nhắc nhở về truyền thống trị thủy của dân tộc và phương châm '4 tại chỗ'. Các hoạt động diễn tập phòng chống lụt bão thường được tổ chức cao điểm vào dịp này."
+    },
+    {
+      "id": "holiday-solar-environment",
+      "title": "Ngày Môi trường Thế giới",
+      "date": "06-05",
+      "story": "Được Liên Hợp Quốc chọn từ năm 1972, đây là sự kiện thường niên lớn nhất về môi trường. Mỗi năm, UNEP chọn một chủ đề cấp thiết (như ô nhiễm không khí, đa dạng sinh học, rác thải nhựa). Đối với Việt Nam, đây là dịp Bộ Tài nguyên và Môi trường phát động Tháng hành động vì môi trường, nơi các chuyên gia GIS và viễn thám đóng góp dữ liệu quan trắc để đánh giá hiện trạng môi trường quốc gia."
+    },
+    {
+      "id": "holiday-solar-ocean",
+      "title": "Ngày Đại dương Thế giới",
+      "date": "06-08",
+      "story": "Chính thức được LHQ công nhận năm 2008, ngày này tôn vinh vai trò của đại dương trong đời sống hàng ngày - 'lá phổi xanh' thực sự của hành tinh. Tại Việt Nam, ngày này gắn liền với Tuần lễ Biển và Hải đảo, khẳng định chủ quyền biển đảo và sự cần thiết của việc nghiên cứu hải văn, dòng chảy và quy hoạch không gian biển bền vững."
+    },
+    {
+      "id": "holiday-solar-journalism",
+      "title": "Ngày Báo chí Cách mạng Việt Nam",
+      "date": "06-21",
+      "story": "Kỷ niệm ngày ra số báo 'Thanh Niên' đầu tiên (21/6/1925) do lãnh tụ Nguyễn Ái Quốc sáng lập. Đây là ngày tôn vinh những người làm báo, những chiến sĩ trên mặt trận tư tưởng văn hóa. Trong lĩnh vực khoa học, báo chí đóng vai trò cầu nối quan trọng để truyền tải các bản tin dự báo khí tượng thủy văn và cảnh báo thiên tai đến với cộng đồng một cách kịp thời nhất."
+    },
+    {
+      "id": "holiday-solar-family",
+      "title": "Ngày Gia đình Việt Nam",
+      "date": "06-28",
+      "story": "Ngày 28/6/2001 được chọn là Ngày Gia đình Việt Nam nhằm tôn vinh những giá trị văn hóa truyền thống tốt đẹp của gia đình Việt. Đây là dịp để nhắc nhở mỗi người về vai trò của gia đình là 'tế bào của xã hội', nơi nuôi dưỡng nhân cách và tâm hồn con người. Bữa cơm gia đình sum họp là nét đẹp tiêu biểu được khuyến khích trong ngày này."
+    },
+    {
+      "id": "holiday-solar-martyrs",
+      "title": "Ngày Thương binh Liệt sĩ",
+      "date": "07-27",
+      "story": "Ngày 27/7 hàng năm là ngày 'Uống nước nhớ nguồn', tri ân những anh hùng liệt sĩ, thương binh đã hy sinh xương máu vì độc lập tự do của Tổ quốc. Đây là ngày lễ trọng đại thể hiện đạo lý đền ơn đáp nghĩa của dân tộc Việt Nam. Các hoạt động thăm hỏi, dâng hương tại các nghĩa trang liệt sĩ diễn ra trên khắp cả nước."
+    },
+    {
+      "id": "holiday-solar-revolution",
+      "title": "Cách mạng Tháng Tám & CAND",
+      "date": "08-19",
+      "story": "Ngày 19/8/1945, cuộc tổng khởi nghĩa giành chính quyền ở Hà Nội thắng lợi rực rỡ, mở đầu cho sự thành công của Cách mạng Tháng Tám trên cả nước. Đây cũng là ngày truyền thống của lực lượng Công an Nhân dân Việt Nam - lực lượng nòng cốt trong việc bảo vệ an ninh quốc gia và trật tự an toàn xã hội."
+    },
+    {
+      "id": "holiday-solar-national",
+      "title": "Ngày Quốc khánh",
+      "date": "09-02",
+      "story": "Ngày 02/9/1945, tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh ra nước Việt Nam Dân chủ Cộng hòa. Đây là ngày lễ lớn nhất của đất nước, đánh dấu kỷ nguyên độc lập, tự do. Toàn dân được nghỉ lễ, cờ đỏ sao vàng tung bay trên khắp mọi nẻo đường để kỷ niệm sự kiện lịch sử trọng đại này."
+    },
+    {
+      "id": "holiday-solar-kttv",
+      "title": "Ngày Truyền thống ngành Khí tượng Thủy văn VN",
+      "date": "10-03",
+      "story": "Ngày 03/10/1945, Chủ tịch Hồ Chí Minh ban hành Sắc lệnh số 41, hợp nhất các Sở Ty Khí tượng và Thủy văn thành Nha Khí tượng, đánh dấu sự ra đời của ngành Khí tượng Thủy văn cách mạng Việt Nam. Đối với chủ nhân, đây là ngày hội nghề nghiệp, tôn vinh những nỗ lực thầm lặng của các quan trắc viên và dự báo viên trong việc 'đo gió, đếm mưa', cung cấp số liệu sống còn cho an ninh quốc phòng và đời sống dân sinh."
+    },
+    {
+      "id": "holiday-solar-capital",
+      "title": "Ngày Giải phóng Thủ đô",
+      "date": "10-10",
+      "story": "Ngày 10/10/1954, Ủy ban Quân chính thành phố và các đơn vị quân đội chia làm nhiều cánh quân tiến vào tiếp quản Hà Nội, sạch bóng quân thù. Thủ đô hoàn toàn giải phóng. Sự kiện này đánh dấu mốc son lịch sử, mở ra thời kỳ phát triển mới cho Thăng Long - Hà Nội, trái tim của cả nước."
+    },
+    {
+      "id": "holiday-solar-business",
+      "title": "Ngày Doanh nhân Việt Nam",
+      "date": "10-13",
+      "story": "Ngày 13/10/1945, Chủ tịch Hồ Chí Minh gửi thư cho giới Công Thương Việt Nam, khẳng định vai trò to lớn của doanh nhân trong công cuộc kiến thiết đất nước. Từ năm 2004, ngày này được chọn là Ngày Doanh nhân Việt Nam nhằm tôn vinh những người lính trên mặt trận kinh tế, đóng góp vào sự thịnh vượng của quốc gia."
+    },
+    {
+      "id": "holiday-solar-women-vn",
+      "title": "Ngày Phụ nữ Việt Nam",
+      "date": "10-20",
+      "story": "Ngày 20/10/1930, Hội Phụ nữ phản đế Việt Nam (nay là Hội Liên hiệp Phụ nữ Việt Nam) được thành lập. Đây là ngày lễ kỷ niệm nhằm tôn vinh phụ nữ Việt Nam, những người mẹ, người chị với 8 chữ vàng 'Anh hùng, Bất khuất, Trung hậu, Đảm đang'. Các hoạt động văn hóa, tặng hoa và quà diễn ra sôi nổi để bày tỏ lòng yêu thương và trân trọng."
+    },
+    {
+      "id": "holiday-solar-law",
+      "title": "Ngày Pháp luật Việt Nam",
+      "date": "11-09",
+      "story": "Ngày 09/11/1946, bản Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa được thông qua. Từ năm 2013, ngày này được chọn là Ngày Pháp luật Việt Nam nhằm tôn vinh Hiến pháp, pháp luật và giáo dục ý thức thượng tôn pháp luật cho mọi công dân. Trong ngành tài nguyên, đây là dịp phổ biến các Luật Đê điều, Luật Khí tượng thủy văn mới."
+    },
+    {
+      "id": "holiday-solar-teacher",
+      "title": "Ngày Nhà giáo Việt Nam",
+      "date": "11-20",
+      "story": "Xuất phát từ hiến chương các nhà giáo quốc tế, ngày 20/11 đã trở thành ngày hội 'Tôn sư trọng đạo' của toàn dân Việt Nam. Đây là dịp để các thế hệ học trò bày tỏ lòng biết ơn sâu sắc đến các thầy cô giáo, những 'người lái đò' thầm lặng đưa tri thức đến với bao thế hệ. Ngành giáo dục thường tổ chức các phong trào thi đua dạy tốt - học tốt chào mừng ngày này."
+    },
+    {
+      "id": "holiday-solar-army",
+      "title": "Ngày Thành lập QĐND VN",
+      "date": "12-22",
+      "story": "Ngày 22/12/1944, Đội Việt Nam Tuyên truyền Giải phóng quân (tiền thân của QĐND Việt Nam) được thành lập theo chỉ thị của Bác Hồ. Ngày này không chỉ là ngày hội của lực lượng vũ trang mà còn là Ngày hội Quốc phòng toàn dân, tôn vinh truyền thống 'bộ đội Cụ Hồ' trung với nước, hiếu với dân, nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua."
+    },
+    {
+      "id": "holiday-solar-population",
+      "title": "Ngày Dân số Việt Nam",
+      "date": "12-26",
+      "story": "Ngày 26/12/1961, Hội đồng Chính phủ ra quyết định về việc sinh đẻ có hướng dẫn, đánh dấu sự ra đời của công tác Dân số - Kế hoạch hóa gia đình tại Việt Nam. Ngày này nhằm nâng cao nhận thức về các vấn đề dân số, cân bằng giới tính và chất lượng cuộc sống, những yếu tố tác động trực tiếp đến quy hoạch đô thị và quản lý tài nguyên thiên nhiên."
+    }
   ],
   "lunar": [
-    { "id": "holiday-lunar-tet-1", "title": "Tết Nguyên Đán (Mùng 1)", "m": 1, "d": 1 },
-    { "id": "holiday-lunar-tet-2", "title": "Tết Nguyên Đán (Mùng 2)", "m": 1, "d": 2 },
-    { "id": "holiday-lunar-tet-3", "title": "Tết Nguyên Đán (Mùng 3)", "m": 1, "d": 3 },
-    { "id": "holiday-lunar-dongda", "title": "Lễ hội Gò Đống Đa", "m": 1, "d": 5 },
-    { "id": "holiday-lunar-huong", "title": "Khai hội Chùa Hương", "m": 1, "d": 6 },
-    { "id": "holiday-lunar-yentu", "title": "Lễ hội Yên Tử", "m": 1, "d": 10 },
-    { "id": "holiday-lunar-lim", "title": "Hội Lim (Dân ca Quan họ)", "m": 1, "d": 13 },
-    { "id": "holiday-lunar-trantemple", "title": "Khai ấn Đền Trần / Hội Bà Chúa Kho", "m": 1, "d": 14 },
-    { "id": "holiday-lunar-nguyentieu", "title": "Tết Nguyên Tiêu (Rằm tháng Giêng)", "m": 1, "d": 15 },
-    { "id": "holiday-lunar-hanthuc", "title": "Tết Hàn Thực (Bánh trôi bánh chay)", "m": 3, "d": 3 },
-    { "id": "holiday-lunar-hungking", "title": "Giỗ tổ Hùng Vương", "m": 3, "d": 10 },
-    { "id": "holiday-lunar-thanhgiong", "title": "Hội Gióng", "m": 4, "d": 9 },
-    { "id": "holiday-lunar-wesak", "title": "Lễ Phật Đản", "m": 4, "d": 15 },
-    { "id": "holiday-lunar-bachuaxu", "title": "Lễ Vía Bà Chúa Xứ (Châu Đốc)", "m": 4, "d": 23 },
-    { "id": "holiday-lunar-doango", "title": "Tết Đoan Ngọ (Diệt sâu bọ)", "m": 5, "d": 5 },
-    { "id": "holiday-lunar-thattich", "title": "Lễ Thất Tịch (Ngưu Lang Chức Nữ)", "m": 7, "d": 7 },
-    { "id": "holiday-lunar-vulan", "title": "Lễ Vu Lan (Xá tội vong nhân)", "m": 7, "d": 15 },
-    { "id": "holiday-lunar-midautumn", "title": "Tết Trung Thu", "m": 8, "d": 15 },
-    { "id": "holiday-lunar-kiepbac", "title": "Giỗ Đức Thánh Trần (Hội Kiếp Bạc)", "m": 8, "d": 20 },
-    { "id": "holiday-lunar-kitchengod", "title": "Lễ ông Công ông Táo", "m": 12, "d": 23 },
-    { "id": "holiday-lunar-tet-26", "title": "26 Tết", "m": 12, "d": 26 },
-    { "id": "holiday-lunar-tet-27", "title": "27 Tết", "m": 12, "d": 27 },
-    { "id": "holiday-lunar-tet-28", "title": "28 Tết", "m": 12, "d": 28 },
-    { "id": "holiday-lunar-tet-29", "title": "29 Tết", "m": 12, "d": 29 },
-    { "id": "holiday-lunar-tet-30", "title": "30 Tết (Giao thừa)", "m": 12, "d": 30, "isLast": true }
+    {
+      "id": "holiday-lunar-kitchengod",
+      "title": "Lễ ông Công ông Táo",
+      "m": 12,
+      "d": 23,
+      "story": "Theo tín ngưỡng dân gian, ngày 23 tháng Chạp là ngày Táo Quân cưỡi cá chép bay về trời để báo cáo với Ngọc Hoàng về mọi việc trong gia đình gia chủ suốt một năm qua. Người Việt thường làm mâm cỗ cúng và thả cá chép ra sông hồ, ngụ ý 'cá chép hóa rồng'. Đây là phong tục đẹp mở đầu cho chuỗi ngày chuẩn bị đón Tết Nguyên Đán."
+    },
+    {
+      "id": "holiday-lunar-tet-30",
+      "title": "30 Tết (Giao thừa)",
+      "m": 12,
+      "d": 30,
+      "isLast": true,
+      "story": "Thời khắc thiêng liêng nhất trong năm, chuyển giao giữa năm cũ và năm mới. Đêm Giao thừa (Trừ tịch) là lúc trời đất giao hòa, con cháu quây quần bên mâm cơm tất niên, cúng tổ tiên và chờ đón thời khắc điểm 0 giờ. Người Việt tin rằng mọi điềm lành hay dữ trong thời khắc này sẽ ảnh hưởng đến vận hạn cả năm sau."
+    },
+    {
+      "id": "holiday-lunar-tet-1",
+      "title": "Tết Nguyên Đán (Mùng 1)",
+      "m": 1,
+      "d": 1,
+      "story": "Tết Nguyên Đán là lễ hội lớn nhất và quan trọng nhất của người Việt. Mùng 1 Tết là ngày khởi đầu, thường dành để cúng gia tiên và chúc Tết bên nội. Mọi người kiêng kỵ những điều không may, chỉ nói lời hay ý đẹp, lì xì lấy may và đi lễ chùa cầu bình an. Không khí tràn ngập sắc hoa đào, hoa mai và mùi hương trầm ấm áp."
+    },
+    {
+      "id": "holiday-lunar-dongda",
+      "title": "Lễ hội Gò Đống Đa",
+      "m": 1,
+      "d": 5,
+      "story": "Diễn ra tại gò Đống Đa (Hà Nội), lễ hội kỷ niệm chiến thắng Ngọc Hồi - Đống Đa lẫy lừng năm Kỷ Dậu (1789) của vua Quang Trung trước 29 vạn quân Thanh. Điểm nhấn là màn rước Rồng lửa Thăng Long tái hiện khí thế hào hùng của nghĩa quân Tây Sơn. Đây là lễ hội mang đậm tinh thần thượng võ và lòng yêu nước."
+    },
+    {
+      "id": "holiday-lunar-huong",
+      "title": "Khai hội Chùa Hương",
+      "m": 1,
+      "d": 6,
+      "story": "Lễ hội chùa Hương (Mỹ Đức, Hà Nội) là một trong những lễ hội dài nhất nước, kéo dài suốt 3 tháng xuân. Du khách ngồi thuyền trên dòng suối Yến thơ mộng để vào lễ Phật tại động Hương Tích ('Nam thiên đệ nhất động'). Lễ hội không chỉ là hành trình tâm linh mà còn là dịp thưởng ngoạn cảnh sắc sơn thủy hữu tình đặc trưng của vùng núi đá vôi."
+    },
+    {
+      "id": "holiday-lunar-lim",
+      "title": "Hội Lim (Dân ca Quan họ)",
+      "m": 1,
+      "d": 13,
+      "story": "Hội Lim (Bắc Ninh) là lễ hội lớn nhất vùng Kinh Bắc, nổi tiếng với các làn điệu dân ca Quan họ - Di sản văn hóa phi vật thể của nhân loại. Các liền anh, liền chị áo mớ ba mớ bảy hát giao duyên trên thuyền rồng, dưới bến nước, tạo nên không gian văn hóa đậm đà bản sắc. Đây là tư liệu quý về văn hóa cộng đồng vùng đồng bằng sông Hồng."
+    },
+    {
+      "id": "holiday-lunar-nguyentieu",
+      "title": "Tết Nguyên Tiêu (Rằm tháng Giêng)",
+      "m": 1,
+      "d": 15,
+      "story": "'Cúng cả năm không bằng Rằm tháng Giêng'. Đây là ngày rằm đầu tiên của năm mới, trăng sáng nhất và đẹp nhất. Người dân thường đi chùa cầu an, ăn chay và thả đèn hoa đăng. Trong văn hóa, đây cũng là Ngày Thơ Việt Nam, tôn vinh vẻ đẹp của thi ca và tâm hồn người Việt."
+    },
+    {
+      "id": "holiday-lunar-hanthuc",
+      "title": "Tết Hàn Thực",
+      "m": 3,
+      "d": 3,
+      "story": "Tết Hàn Thực (ăn đồ nguội) du nhập từ Trung Quốc nhưng đã được Việt hóa mạnh mẽ. Vào ngày này, người Việt làm bánh trôi, bánh chay dâng cúng tổ tiên để tỏ lòng thành kính. Hình ảnh 'bảy nổi ba chìm' của chiếc bánh trôi nước đã đi vào thơ ca của Hồ Xuân Hương, trở thành biểu tượng văn hóa độc đáo."
+    },
+    {
+      "id": "holiday-lunar-hungking",
+      "title": "Giỗ tổ Hùng Vương",
+      "m": 3,
+      "d": 10,
+      "story": "'Dù ai đi ngược về xuôi/ Nhớ ngày Giỗ Tổ mùng mười tháng Ba'. Lễ hội Đền Hùng (Phú Thọ) là ngày quốc giỗ, biểu tượng của khối đại đoàn kết dân tộc và tín ngưỡng thờ cúng Hùng Vương. Người Việt từ khắp nơi hành hương về đất Tổ để tri ân công đức dựng nước của các Vua Hùng, khẳng định đạo lý 'Uống nước nhớ nguồn'."
+    },
+    {
+      "id": "holiday-lunar-wesak",
+      "title": "Lễ Phật Đản",
+      "m": 4,
+      "d": 15,
+      "story": "Lễ Phật Đản kỷ niệm ngày đản sinh của Đức Phật Thích Ca Mâu Ni. Đây là đại lễ của Phật giáo, được Liên Hợp Quốc công nhận là lễ hội văn hóa tôn giáo thế giới (Vesak). Vào ngày này, các chùa trang hoàng lộng lẫy, tổ chức lễ tắm Phật, diễu hành xe hoa và các hoạt động từ thiện, lan tỏa thông điệp từ bi, trí tuệ và hòa bình."
+    },
+    {
+      "id": "holiday-lunar-doango",
+      "title": "Tết Đoan Ngọ",
+      "m": 5,
+      "d": 5,
+      "story": "Tết Đoan Ngọ, hay tết 'giết sâu bọ', diễn ra vào giờ Ngọ, ngày mùng 5 tháng 5 âm lịch - thời điểm khí dương thịnh nhất trong năm. Người dân thường ăn rượu nếp, hoa quả chua (mận, vải) ngay khi thức dậy để 'diệt sâu bọ' trong người, phòng trừ bệnh tật mùa hè. Đây là phong tục gắn liền với nền văn minh lúa nước và y học cổ truyền."
+    },
+    {
+      "id": "holiday-lunar-vulan",
+      "title": "Lễ Vu Lan",
+      "m": 7,
+      "d": 15,
+      "story": "Lễ Vu Lan là ngày báo hiếu cha mẹ, một trong những lễ chính của Phật giáo. Đặc trưng là nghi thức 'Bông hồng cài áo': hoa hồng đỏ cho những ai còn mẹ, hoa trắng cho những ai đã mất mẹ. Ngày này trùng với Tết Trung Nguyên (Xá tội vong nhân), người dân thường cúng chúng sinh để bố thí cho các cô hồn không nơi nương tựa."
+    },
+    {
+      "id": "holiday-lunar-kiepbac",
+      "title": "Giỗ Đức Thánh Trần",
+      "m": 8,
+      "d": 20,
+      "story": "'Tháng Tám giỗ Cha, tháng Ba giỗ Mẹ'. Giỗ Đức Thánh Trần (Hưng Đạo Đại Vương Trần Quốc Tuấn) diễn ra tại đền Kiếp Bạc (Hải Dương). Ông là vị anh hùng dân tộc 3 lần đánh thắng quân Nguyên Mông, được dân gian tôn sùng là Thánh. Lễ hội có lễ rước bộ, diễn xướng hầu đồng và đua thuyền, thể hiện hào khí Đông A."
+    },
+    {
+      "id": "holiday-lunar-midautumn",
+      "title": "Tết Trung Thu",
+      "m": 8,
+      "d": 15,
+      "story": "Tết Trung Thu là tết của trẻ em, diễn ra vào đêm rằm tháng 8 khi trăng sáng nhất. Trẻ em rước đèn ông sao, xem múa lân và phá cỗ trông trăng. Hình ảnh chú Cuội, chị Hằng và bánh nướng, bánh dẻo là những nét văn hóa không thể thiếu. Đây cũng là dịp đoàn viên, các thành viên trong gia đình quây quần thưởng trà, ngắm trăng."
+    }
   ],
   "monthly": [
-    { "id": "holiday-lunar-m1", "title": "Mùng 1 (Âm lịch)", "d": 1 },
-    { "id": "holiday-lunar-m15", "title": "Ngày Rằm (Âm lịch)", "d": 15 }
+    {
+      "id": "holiday-lunar-m1",
+      "title": "Mùng 1 (Âm lịch)",
+      "d": 1,
+      "story": "Ngày Sóc (ngày đầu tháng âm lịch). Theo quan niệm dân gian và Phật giáo, đây là ngày mặt trăng bắt đầu chu kỳ mới, thích hợp để tịnh tâm, ăn chay, đi lễ chùa cầu may mắn cho cả tháng. Người làm kinh doanh đặc biệt chú trọng việc thắp hương Thần Tài vào ngày này."
+    },
+    {
+      "id": "holiday-lunar-m15",
+      "title": "Ngày Rằm (Âm lịch)",
+      "d": 15,
+      "story": "Ngày Vọng (giữa tháng âm lịch), khi mặt trăng tròn đầy nhất (triều cường đạt đỉnh trong thủy văn). Đây là thời điểm khí trường mạnh, người dân thường làm lễ cúng gia tiên, thổ công. Đối với người làm thủy văn, đây là mốc tham chiếu quan trọng cho việc tính toán con nước triều cường vùng cửa sông ven biển."
+    }
   ]
 }
