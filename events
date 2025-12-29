@@ -1,0 +1,31 @@
+{
+  "solar": [
+    { "id": "holiday-solar-newyear", "title": "Tết Dương Lịch", "date": "01-01" },
+    { "id": "holiday-solar-liberation", "title": "Ngày Giải phóng Miền Nam", "date": "04-30" },
+    { "id": "holiday-solar-labor", "title": "Ngày Quốc tế Lao động", "date": "05-01" },
+    { "id": "holiday-solar-national", "title": "Ngày Quốc khánh", "date": "09-02" },
+    { "id": "holiday-solar-teacher", "title": "Ngày Nhà giáo Việt Nam", "date": "11-20" },
+    { "id": "holiday-solar-army", "title": "Ngày Thành lập QĐND VN", "date": "12-22" },
+    { "id": "holiday-solar-xmas", "title": "Lễ Giáng sinh", "date": "12-25" }
+  ],
+  "lunar": [
+    { "id": "holiday-lunar-tet-23", "title": "Lễ ông Công ông Táo", "m": 12, "d": 23 },
+    { "id": "holiday-lunar-tet-26", "title": "26 Tết", "m": 12, "d": 26 },
+    { "id": "holiday-lunar-tet-27", "title": "27 Tết", "m": 12, "d": 27 },
+    { "id": "holiday-lunar-tet-28", "title": "28 Tết", "m": 12, "d": 28 },
+    { "id": "holiday-lunar-tet-29", "title": "29 Tết", "m": 12, "d": 29 },
+    { "id": "holiday-lunar-tet-30", "title": "30 Tết (Giao thừa)", "m": 12, "d": 30, "isLast": true },
+    { "id": "holiday-lunar-tet-1", "title": "Tết Nguyên Đán (Mùng 1)", "m": 1, "d": 1 },
+    { "id": "holiday-lunar-tet-2", "title": "Tết Nguyên Đán (Mùng 2)", "m": 1, "d": 2 },
+    { "id": "holiday-lunar-tet-3", "title": "Tết Nguyên Đán (Mùng 3)", "m": 1, "d": 3 },
+    { "id": "holiday-lunar-hungking", "title": "Giỗ tổ Hùng Vương", "m": 3, "d": 10 },
+    { "id": "holiday-lunar-wesak", "title": "Lễ Phật Đản", "m": 4, "d": 15 },
+    { "id": "holiday-lunar-doango", "title": "Tết Đoan Ngọ", "m": 5, "d": 5 },
+    { "id": "holiday-lunar-vulan", "title": "Lễ Vu Lan", "m": 7, "d": 15 },
+    { "id": "holiday-lunar-midautumn", "title": "Tết Trung Thu", "m": 8, "d": 15 }
+  ],
+  "monthly": [
+    { "id": "holiday-lunar-m1", "title": "Mùng 1 (Âm lịch)", "d": 1 },
+    { "id": "holiday-lunar-m15", "title": "Ngày Rằm (Âm lịch)", "d": 15 }
+  ]
+}
