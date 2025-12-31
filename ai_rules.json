@@ -3,16 +3,6 @@
   "description": "Auto-Import Rules for Assistance App. Upload this to Github/repo storage/ai_rules.json to sync.",
   "rules": [
     {
-      "id": "r_core_date_1",
-      "category": "CORE",
-      "rule_content": "ALWAYS use current year (2025/2026) for calculations. Today is 2025-12-31."
-    },
-    {
-      "id": "r_core_date_2",
-      "category": "CORE",
-      "rule_content": "Next Week starts from 2026-01-05 (Monday). Do NOT use 2025-04."
-    },
-    {
       "id": "r1",
       "category": "SUMMARIZATION",
       "rule_content": "Priority: Today -> 3 Days -> Week -> Month -> Next Month. Never say 'Nothing today'."
