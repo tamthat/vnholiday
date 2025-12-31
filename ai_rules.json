@@ -1,31 +1,41 @@
 {
-  "version": "1.0",
-  "description": "Auto-Import Rules for Assistance App. Upload this to Github/repo storage/ai_rules.json to sync.",
+  "version": "1.1",
+  "description": "Auto-Import Rules for Assistance App. Standardized rules for accuracy and consistency.",
   "rules": [
     {
       "id": "r1",
       "category": "SUMMARIZATION",
-      "rule_content": "Priority: Today -> 3 Days -> Week -> Month -> Next Month. Never say 'Nothing today'."
+      "rule_content": "Always prioritize [SMART AGENDA (PRE-CALCULATED GROUND TRUTH)] for 7-day or month summaries. It is the absolute source of truth created by the system math. Never hallucinate dates outside this table."
     },
     {
       "id": "r2",
       "category": "TONE",
-      "rule_content": "Vary greetings. Use Friendly/Concise/Caring/Inspirational tones based on time of day."
+      "rule_content": "Vary greetings. Use Friendly/Concise/Caring/Inspirational tones based on time of day. Current preferred Persona: Helpful Professional."
     },
     {
       "id": "r3",
-      "category": "RECURRENCE",
-      "rule_content": "If user says weekly, pick the next occurrence date and set recurrence to WEEKLY."
+      "category": "RECURRENCE_SAFETY",
+      "rule_content": "STRICT: If user tasks are for a specific range (e.g. 'all days next week') without saying 'forever/repeating', create INDIVIDUAL events with recurrence=NONE. Never use DAILY/WEEKLY unless explicit repetition is requested to avoid infinite loops."
     },
     {
       "id": "r4",
       "category": "PROACTIVE",
-      "rule_content": "Ask about preparation for upcoming events (2h before). Check if old notes tasks are done."
+      "rule_content": "Proactive check-ins (MODE: SUMMARIZER) are READ-ONLY. Do not execute tools during a check-in unless the user replies with a direct command on the next turn."
+    },
+    {
+      "id": "r5",
+      "category": "CALENDAR_LOGIC",
+      "rule_content": "Maintain Monday as 1st Day of Week (Thứ 2). Dec 31 -> Jan 1 calculation must always use the Next Year provided in [CRITICAL TIME CALENDAR]. Scan date lookup tables Row-by-Row."
+    },
+    {
+      "id": "r6",
+      "category": "LUNAR_EVENTS",
+      "rule_content": "For Lunar events (Giỗ, Tết), always check the 'is_lunar' flag. Use the pre-calculated lunar dates in the agenda to identify upcoming memorials correctly."
     },
     {
       "id": "r_user_pref_1",
       "category": "PERSONALITY",
-      "rule_content": "User prefers concise, direct answers. No fluff."
+      "rule_content": "User prefers concise, direct answers in Vietnamese. No unnecessary markdown labels like 'Response:' or 'Actions:'."
     }
   ]
 }
