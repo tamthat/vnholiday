@@ -7,10 +7,28 @@
       "story": "Ngày đầu tiên của năm mới theo lịch Gregory (Dương lịch). Đây là ngày lễ quốc tế được đón mừng trên toàn thế giới với pháo hoa và những lời chúc tốt đẹp. Tại Việt Nam, người lao động được nghỉ làm, là dịp để mọi người nhìn lại năm cũ và lập kế hoạch cho năm mới."
     },
     {
+      "id": "holiday-solar-braille",
+      "title": "Ngày Chữ nổi Thế giới",
+      "date": "01-04",
+      "story": "Ngày tôn vinh Louis Braille và nâng cao nhận thức về tầm quan trọng của chữ nổi đối với người khiếm thị, giúp họ tiếp cận thông tin và hòa nhập xã hội."
+    },
+    {
       "id": "holiday-solar-students",
       "title": "Ngày Truyền thống Học sinh Sinh viên",
       "date": "01-09",
       "story": "Kỷ niệm cuộc biểu tình của học sinh, sinh viên Sài Gòn năm 1950 và sự hy sinh của anh hùng Trần Văn Ơn. Ngày này tôn vinh tinh thần yêu nước, hiếu học và vai trò xung kích của giới trí thức trẻ Việt Nam trong sự nghiệp xây dựng và bảo vệ tổ quốc."
+    },
+    {
+      "id": "holiday-solar-education",
+      "title": "Ngày Quốc tế Giáo dục",
+      "date": "01-24",
+      "story": "Ngày Liên Hợp Quốc tôn vinh vai trò của giáo dục đối với hòa bình và phát triển bền vững trên toàn cầu."
+    },
+    {
+      "id": "holiday-solar-holocaust",
+      "title": "Ngày Quốc tế Kỷ niệm Nạn nhân bị diệt chủng Holocaust",
+      "date": "01-27",
+      "story": "Ngày tưởng niệm các nạn nhân của thảm họa diệt chủng Holocaust, nhắc nhở nhân loại về hậu quả của sự thù ghét và phân biệt đối xử."
     },
     {
       "id": "holiday-solar-party",
@@ -356,6 +374,13 @@
       "story": "Ngày báo hiếu cha mẹ, với nghi thức bông hồng cài áo đầy xúc động. Trùng với ngày Xá tội vong nhân, người dân cúng chúng sinh để bố thí cho các linh hồn cô quạnh."
     },
     {
+      "id": "holiday-lunar-midautumn",
+      "title": "Tết Trung Thu",
+      "m": 8,
+      "d": 15,
+      "story": "Tết của thiếu nhi và sự đoàn viên. Trẻ em rước đèn, phá cỗ, xem múa lân. Người lớn thưởng trà, ăn bánh nướng bánh dẻo và ngắm trăng tròn vành vạnh."
+    },
+    {
       "id": "holiday-lunar-kiepbac",
       "title": "Giỗ Đức Thánh Trần",
       "m": 8,
@@ -363,11 +388,11 @@
       "story": "Lễ hội đền Kiếp Bạc tưởng nhớ Hưng Đạo Đại Vương Trần Quốc Tuấn. Nổi tiếng với các nghi lễ đậm chất tâm linh và hào khí quân sự thời Trần."
     },
     {
-      "id": "holiday-lunar-midautumn",
-      "title": "Tết Trung Thu",
-      "m": 8,
-      "d": 15,
-      "story": "Tết của thiếu nhi và sự đoàn viên. Trẻ em rước đèn, phá cỗ, xem múa lân. Người lớn thưởng trà, ăn bánh nướng bánh dẻo và ngắm trăng tròn vành vạnh."
+      "id": "holiday-lunar-enlightenment",
+      "title": "Lễ Phật Thành Đạo",
+      "m": 12,
+      "d": 8,
+      "story": "Ngày kỷ niệm Đức Phật Thích Ca Mâu Ni đạt được giác ngộ dưới gốc cây Bồ Đề. Đây là ngày lễ quan trọng trong Phật giáo."
     },
     {
       "id": "holiday-lunar-kitchengod",
