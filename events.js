@@ -91,6 +91,18 @@
       "story": "Kỷ niệm sự kiện hợp nhất các tổ chức cộng sản năm 1930 dưới sự chủ trì của lãnh tụ Nguyễn Ái Quốc. Đây là mốc son lịch sử đánh dấu bước ngoặt trọng đại của cách mạng Việt Nam, chấm dứt thời kỳ khủng hoảng về đường lối cứu nước."
     },
     {
+      "id": "holiday-solar-gialong-birth",
+      "title": "Ngày sinh Vua Gia Long",
+      "date": "02-08",
+      "story": "Kỷ niệm ngày sinh của Vua Gia Long (Nguyễn Phúc Ánh, sinh ngày 08/02/1762), vị hoàng đế sáng lập triều Nguyễn."
+    },
+    {
+      "id": "holiday-solar-kienphuc-birth",
+      "title": "Ngày sinh Vua Kiến Phúc",
+      "date": "02-12",
+      "story": "Kỷ niệm ngày sinh của Vua Kiến Phúc (Nguyễn Phúc Ưng Đăng, sinh ngày 12/02/1869)."
+    },
+    {
       "id": "holiday-solar-valentine",
       "title": "Lễ tình nhân (Valentine)",
       "date": "02-14",
@@ -107,6 +119,12 @@
       "title": "Quốc tế Phụ nữ",
       "date": "03-08",
       "story": "Ngày Liên Hợp Quốc tôn vinh quyền bình đẳng và những đóng góp của phụ nữ trên toàn cầu. Tại Việt Nam, ngày này còn là dịp kỷ niệm cuộc khởi nghĩa Hai Bà Trưng, khẳng định truyền thống anh hùng, bất khuất của phụ nữ Việt."
+    },
+    {
+      "id": "holiday-solar-thanhthai-birth",
+      "title": "Ngày sinh Vua Thành Thái",
+      "date": "03-14",
+      "story": "Kỷ niệm ngày sinh của Vua Thành Thái (Nguyễn Phúc Bửu Lân, sinh ngày 14/03/1879), vị vua có tinh thần chống Pháp."
     },
     {
       "id": "holiday-solar-happy",
@@ -181,6 +199,12 @@
       "story": "Kỷ niệm ngày Bác Hồ thành lập Ủy ban Trung ương Hộ đê (1946). Ngày này nhắc nhở ý thức chủ động phòng tránh, ứng phó thiên tai và tầm quan trọng của công tác thủy lợi, đê điều."
     },
     {
+      "id": "holiday-solar-minhmang-birth",
+      "title": "Ngày sinh Vua Minh Mạng",
+      "date": "05-25",
+      "story": "Kỷ niệm ngày sinh của Vua Minh Mạng (Nguyễn Phúc Đảm, sinh ngày 25/05/1791), vị vua thứ hai của triều Nguyễn."
+    },
+    {
       "id": "holiday-solar-children",
       "title": "Quốc tế Thiếu nhi",
       "date": "06-01",
@@ -197,6 +221,12 @@
       "title": "Ngày Đại dương Thế giới",
       "date": "06-08",
       "story": "Ngày tôn vinh đại dương, nhấn mạnh mối liên hệ giữa biển và sự sống con người. Tại Việt Nam, ngày này gắn liền với Tuần lễ Biển và Hải đảo, khẳng định chủ quyền và khai thác bền vững tài nguyên biển."
+    },
+    {
+      "id": "holiday-solar-thieutri-birth",
+      "title": "Ngày sinh Vua Thiệu Trị",
+      "date": "06-16",
+      "story": "Kỷ niệm ngày sinh của Vua Thiệu Trị (Nguyễn Phúc Miên Tông, sinh ngày 16/06/1807)."
     },
     {
       "id": "holiday-solar-journalism",
@@ -217,6 +247,12 @@
       "story": "Ngày lễ trọng đại tri ân các anh hùng, liệt sĩ, thương binh đã hy sinh xương máu vì độc lập dân tộc. Thể hiện đạo lý 'Uống nước nhớ nguồn', 'Đền ơn đáp nghĩa' của người Việt."
     },
     {
+      "id": "holiday-solar-hamnghi-birth",
+      "title": "Ngày sinh Vua Hàm Nghi",
+      "date": "08-03",
+      "story": "Kỷ niệm ngày sinh của Vua Hàm Nghi (Nguyễn Phúc Ưng Lịch, sinh ngày 03/08/1871), vị vua yêu nước."
+    },
+    {
       "id": "holiday-solar-revolution",
       "title": "Cách mạng Tháng Tám & CAND",
       "date": "08-19",
@@ -227,6 +263,12 @@
       "title": "Ngày Quốc khánh",
       "date": "09-02",
       "story": "Ngày Bác Hồ đọc Tuyên ngôn Độc lập khai sinh ra nước Việt Nam Dân chủ Cộng hòa. Đây là ngày hội lớn nhất của non sông, đánh dấu kỷ nguyên độc lập tự do."
+    },
+    {
+      "id": "holiday-solar-duytan-birth",
+      "title": "Ngày sinh Vua Duy Tân",
+      "date": "09-19",
+      "story": "Kỷ niệm ngày sinh của Vua Duy Tân (Nguyễn Phúc Vĩnh San, sinh ngày 19/09/1900), vị vua trẻ tuổi yêu nước."
     },
     {
       "id": "holiday-solar-elderly",
@@ -265,10 +307,22 @@
       "story": "Ngày thành lập Hội Liên hiệp Phụ nữ Việt Nam. Dịp để tôn vinh vẻ đẹp, đức hạnh và vai trò quan trọng của người phụ nữ Việt trong gia đình và xã hội."
     },
     {
+      "id": "holiday-solar-baodai-birth",
+      "title": "Ngày sinh Vua Bảo Đại",
+      "date": "10-22",
+      "story": "Kỷ niệm ngày sinh của Vua Bảo Đại (Nguyễn Phúc Vĩnh Thụy, sinh ngày 22/10/1913), vị hoàng đế cuối cùng của Việt Nam."
+    },
+    {
       "id": "holiday-solar-halloween",
       "title": "Lễ hội Halloween",
       "date": "10-31",
       "story": "Lễ hội hóa trang có nguồn gốc phương Tây, diễn ra vào đêm trước ngày Lễ Các Thánh. Tại Việt Nam, đây là dịp giới trẻ vui chơi, hóa trang thành các nhân vật ma quái và tham gia các bữa tiệc sôi động."
+    },
+    {
+      "id": "holiday-solar-hiephoa-birth",
+      "title": "Ngày sinh Vua Hiệp Hòa",
+      "date": "11-01",
+      "story": "Kỷ niệm ngày sinh của Vua Hiệp Hòa (Nguyễn Phúc Hồng Dật, sinh ngày 01/11/1847)."
     },
     {
       "id": "holiday-solar-law",
@@ -287,6 +341,12 @@
       "title": "Thành lập Hội Chữ thập đỏ Việt Nam",
       "date": "11-23",
       "story": "Ngày kỷ niệm tổ chức nhân đạo chuyên nghiệp của Việt Nam, hoạt động vì mục tiêu nhân đạo, hòa bình, hữu nghị, giúp đỡ những hoàn cảnh khó khăn, thiên tai."
+    },
+    {
+      "id": "holiday-solar-dongkhanh-birth",
+      "title": "Ngày sinh Vua Đồng Khánh",
+      "date": "12-19",
+      "story": "Kỷ niệm ngày sinh của Vua Đồng Khánh (sinh ngày 19/12/1864)."
     },
     {
       "id": "holiday-solar-army",
@@ -442,11 +502,25 @@
       "story": "Lễ hội đền Kiếp Bạc tưởng nhớ Hưng Đạo Đại Vương Trần Quốc Tuấn. Nổi tiếng với các nghi lễ đậm chất tâm linh và hào khí quân sự thời Trần."
     },
     {
+      "id": "holiday-lunar-hiephoa-death",
+      "title": "Ngày giỗ Vua Hiệp Hòa",
+      "m": 10,
+      "d": 30,
+      "story": "Lễ giỗ Vua Hiệp Hòa (mất ngày 30 tháng 10 năm Quý Mùi)."
+    },
+    {
       "id": "holiday-lunar-enlightenment",
       "title": "Lễ Phật Thành Đạo",
       "m": 12,
       "d": 8,
       "story": "Ngày kỷ niệm Đức Phật Thích Ca Mâu Ni đạt được giác ngộ dưới gốc cây Bồ Đề. Đây là ngày lễ quan trọng trong Phật giáo."
+    },
+    {
+      "id": "holiday-lunar-gialong-death",
+      "title": "Ngày giỗ Vua Gia Long",
+      "m": 12,
+      "d": 19,
+      "story": "Lễ giỗ Vua Gia Long (mất ngày 19 tháng Chạp năm Kỷ Mão), vị vua khai sáng triều Nguyễn."
     },
     {
       "id": "holiday-lunar-thichnhathanh-death",
@@ -475,6 +549,13 @@
       "m": 12,
       "d": 27,
       "story": "Những ngày cận Tết hối hả. Mọi người tranh thủ hoàn tất công việc, gói bánh chưng, làm dưa hành và chuẩn bị mâm ngũ quả."
+    },
+    {
+      "id": "holiday-lunar-dongkhanh-death",
+      "title": "Ngày giỗ Vua Đồng Khánh",
+      "m": 12,
+      "d": 27,
+      "story": "Lễ giỗ Vua Đồng Khánh (mất ngày 27 tháng 12 năm Mậu Tý)."
     },
     {
       "id": "holiday-lunar-tet-28",
