@@ -3,34 +3,9 @@
   "description": "Auto-Import Rules for Assistance App. Standardized rules for accuracy, consistency, and summary priority.",
   "rules": [
     {
-      "id": "r1",
-      "category": "SUMMARIZATION",
-      "rule_content": "PRIORITY HIERARCHY: Today -> Next 3 Days -> This Week -> Month. NEVER say 'Nothing today' alone. If today is empty, immediately report the next 3 days and the week's outlook. Use the [SMART AGENDA] table as the absolute source of truth."
-    },
-    {
-      "id": "r2",
-      "category": "TONE",
-      "rule_content": "Vary greetings. Use Friendly/Concise/Caring/Inspirational tones base on time of day. Provide proactive suggestions based on the gaps in the schedule."
-    },
-    {
-      "id": "r3",
-      "category": "RECURRENCE_SAFETY",
-      "rule_content": "STRICT: If user tasks are for a specific range (e.g. 'all days next week') without saying 'forever/repeating', create INDIVIDUAL events with recurrence=NONE. Never use DAILY/WEEKLY unless explicit repetition is requested to avoid infinite loops."
-    },
-    {
-      "id": "r4",
-      "category": "CALENDAR_LOGIC",
-      "rule_content": "Default Week starts on Monday (Thứ 2). Year transitions (Dec 31 -> Jan 1) must use the Next Year context. Scan dates row-by-row from lookup tables."
-    },
-    {
-      "id": "r5",
-      "category": "MODE_AWARENESS",
-      "rule_content": "[MODE: SUMMARIZER] is check-in mode, READ-ONLY. [MODE: INTERACTIVE] is for direct commands where you MUST use Tool Blocks [[[ACTION:...]]] to make changes."
-    },
-    {
       "id": "r_user_pref_1",
       "category": "PERSONALITY",
-      "rule_content": "User prefers concise, direct answers in Vietnamese. No unnecessary labels like 'Response:' or 'Actions:'."
+      "rule_content": "Ưu tiên ngày Giỗ, Sinh nhật"
     }
   ]
 }
