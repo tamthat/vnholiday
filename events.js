@@ -7,6 +7,12 @@
       "story": "Ngày đầu tiên của năm mới theo lịch Gregory (Dương lịch). Đây là ngày lễ quốc tế được đón mừng trên toàn thế giới với pháo hoa và những lời chúc tốt đẹp. Tại Việt Nam, người lao động được nghỉ làm, là dịp để mọi người nhìn lại năm cũ và lập kế hoạch cho năm mới."
     },
     {
+      "id": "holiday-solar-nguyenvanbong-birth",
+      "title": "Ngày sinh Nhà văn Nguyễn Văn Bổng",
+      "date": "01-01",
+      "story": "Kỷ niệm ngày sinh của Nguyễn Văn Bổng (1921), nhà văn tiêu biểu của văn học hiện đại Việt Nam, tác giả của 'Con trâu', 'Rừng phương Nam'."
+    },
+    {
       "id": "holiday-solar-braille",
       "title": "Ngày Chữ nổi Thế giới",
       "date": "01-04",
@@ -43,6 +49,12 @@
       "story": "Kỷ niệm ngày sinh của Benjamin Franklin (1706), một trong những Kiến quốc Phụ của Hoa Kỳ, nhà khoa học, nhà phát minh, và nhà ngoại giao lỗi lạc."
     },
     {
+      "id": "holiday-solar-minhmang-death",
+      "title": "Ngày mất Vua Minh Mạng",
+      "date": "01-20",
+      "story": "Tưởng niệm ngày mất của Vua Minh Mạng (1841), vị hoàng đế thứ hai của triều Nguyễn, người có công lớn trong việc cải cách hành chính và mở rộng lãnh thổ."
+    },
+    {
       "id": "holiday-solar-lenin-death",
       "title": "Ngày mất Vladimir Lenin",
       "date": "01-21",
@@ -59,6 +71,12 @@
       "title": "Ngày Quốc tế Giáo dục",
       "date": "01-24",
       "story": "Ngày Liên Hợp Quốc tôn vinh vai trò của giáo dục đối với hòa bình và phát triển bền vững trên toàn cầu."
+    },
+    {
+      "id": "holiday-solar-anhtho-birth",
+      "title": "Ngày sinh Nữ sĩ Anh Thơ",
+      "date": "01-25",
+      "story": "Kỷ niệm ngày sinh của Anh Thơ (1918), nữ thi sĩ nổi tiếng với tập 'Bức tranh quê', được mệnh danh là 'nàng thơ của đồng quê Việt Nam'."
     },
     {
       "id": "holiday-solar-holocaust",
