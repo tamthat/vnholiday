@@ -89,5 +89,44 @@
     "recurrence_value": null,
     "source_id": null,
     "created_at": "2025-12-29 09:21:18"
+  },
+  {
+    "id": "7f88f4cf-c7ef-4b06-9e3f-d82359cdaa71",
+    "title": "Sinh nhật Thìn (Dương lịch)",
+    "description": "Ngày sinh nhật dương lịch tương ứng với ngày sinh âm lịch",
+    "story": null,
+    "start_time": "2026-09-18T00:00:00.000Z",
+    "end_time": "2026-09-18T23:59:59.000Z",
+    "is_lunar": 0,
+    "recurrence": "YEARLY",
+    "recurrence_value": null,
+    "source_id": null,
+    "created_at": "2026-01-01 12:23:33"
+  },
+  {
+    "id": "cd2dfe26-2e2d-4838-8476-1b35366a8e24",
+    "title": "Sinh nhật Thìn (Âm lịch)",
+    "description": "Ngày 8/8 âm lịch",
+    "story": null,
+    "start_time": "1988-08-08T00:00:00.000Z",
+    "end_time": "1988-08-08T23:59:59.000Z",
+    "is_lunar": 1,
+    "recurrence": "YEARLY",
+    "recurrence_value": null,
+    "source_id": null,
+    "created_at": "2026-01-01 12:23:33"
+  },
+  {
+    "id": "f2ffe00f-411f-4ddd-8f27-f3154c3e9fe7",
+    "title": "Ngày sinh Thìn (Giấy khai sinh)",
+    "description": "22/09/1987 dương lịch",
+    "story": null,
+    "start_time": "1987-09-22T00:00:00.000Z",
+    "end_time": "1987-09-22T23:59:59.000Z",
+    "is_lunar": 0,
+    "recurrence": "YEARLY",
+    "recurrence_value": null,
+    "source_id": null,
+    "created_at": "2026-01-01 12:23:33"
   }
 ]
