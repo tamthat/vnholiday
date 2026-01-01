@@ -94,13 +94,13 @@
       "id": "holiday-solar-gialong-birth",
       "title": "Ngày sinh Vua Gia Long",
       "date": "02-08",
-      "story": "Nhà Nguyễn - Gia Long (Nguyễn Phúc Ánh). Cháu nội của chúa Nguyễn Phúc Khoát. Sau nhiều năm nội chiến với Tây Sơn, ông thống nhất đất nước, đặt quốc hiệu Việt Nam, xác lập chủ quyền lãnh thổ rộng lớn từ ải Nam Quan đến mũi Cà Mau."
+      "story": "Nhà Nguyễn - Gia Long (Nguyễn Phúc Ánh). Sinh ngày 8/2/1762. Cháu nội của Võ vương Nguyễn Phúc Khoát, con thứ ba của Nguyễn Phúc Luân. Trải qua nhiều gian khổ trong cuộc chiến với Tây Sơn, ông thống nhất đất nước năm 1802, đặt quốc hiệu Việt Nam, mở rộng lãnh thổ cực đại."
     },
     {
       "id": "holiday-solar-kienphuc-birth",
       "title": "Ngày sinh Vua Kiến Phúc",
       "date": "02-12",
-      "story": "Nhà Nguyễn - Kiến Phúc (Nguyễn Phúc Ưng Đăng). Con nuôi của vua Tự Đức. Lên ngôi khi còn nhỏ tuổi và tại vị chỉ được 8 tháng trong giai đoạn thực dân Pháp bắt đầu xâm lược mạnh mẽ."
+      "story": "Nhà Nguyễn - Kiến Phúc (Nguyễn Phúc Ưng Đăng). Sinh ngày 12/2/1869. Con của Kiên Quốc công Nguyễn Phúc Hồng Cai và bà Bùi Thị Thanh, được vua Tự Đức nhận làm con nuôi. Lên ngôi khi mới 15 tuổi, trị vì được 8 tháng thì mất."
     },
     {
       "id": "holiday-solar-valentine",
@@ -124,13 +124,13 @@
       "id": "holiday-solar-lythaito-birth",
       "title": "Ngày sinh Vua Lý Thái Tổ",
       "date": "03-08",
-      "story": "Nhà Lý - Lý Thái Tổ (Lý Công Uẩn). Ông người hương Cổ Pháp (Bắc Ninh), con nuôi của thiền sư Lý Khánh Văn. Là người khai sáng triều Lý, ông có tầm nhìn thiên tài khi dời đô từ Hoa Lư về Thăng Long năm 1010 với 'Chiếu Dời Đô' bất hủ, mở ra thời kỳ hưng thịnh rực rỡ của văn minh Đại Việt."
+      "story": "Nhà Lý - Lý Thái Tổ (Lý Công Uẩn). Sinh ngày 8/3/974 tại Cổ Pháp, Bắc Ninh. Mẹ là bà Phạm Thị Ngà, tương truyền ông là con thần nhân. Được thiền sư Lý Khánh Văn nhận nuôi từ nhỏ. Ông là người khai sáng triều Lý, dời đô về Thăng Long năm 1010, mở ra kỷ nguyên văn minh Đại Việt rực rỡ."
     },
     {
       "id": "holiday-solar-thanhthai-birth",
       "title": "Ngày sinh Vua Thành Thái",
       "date": "03-14",
-      "story": "Nhà Nguyễn - Thành Thái (Nguyễn Phúc Bửu Lân). Con thứ 7 của vua Dục Đức. Một vị vua có tư tưởng canh tân, cắt tóc ngắn, lái xe hơi và có tinh thần chống Pháp ngầm. Ông thường vi hành để hiểu đời sống dân chúng và bị Pháp ép thoái vị."
+      "story": "Nhà Nguyễn - Thành Thái (Nguyễn Phúc Bửu Lân). Sinh ngày 14/3/1879. Con thứ 7 của vua Dục Đức và Từ Minh Huệ Hoàng hậu Phan Thị Điều. Vị vua có tinh thần tự cường, yêu nước, thường vi hành thị sát dân tình, bị Pháp ép thoái vị và lưu đày."
     },
     {
       "id": "holiday-solar-happy",
@@ -214,7 +214,7 @@
       "id": "holiday-solar-minhmang-birth",
       "title": "Ngày sinh Vua Minh Mạng",
       "date": "05-25",
-      "story": "Nhà Nguyễn - Minh Mạng (Nguyễn Phúc Đảm). Con thứ 4 của vua Gia Long. Vị vua cải cách hành chính đại tài, chia cả nước thành 30 tỉnh và 1 phủ, hoàn thiện bộ máy nhà nước, khẳng định chủ quyền biển đảo tại Hoàng Sa - Trường Sa."
+      "story": "Nhà Nguyễn - Minh Mạng (Nguyễn Phúc Đảm). Sinh ngày 25/5/1791. Con thứ tư của vua Gia Long và Thuận Thiên Cao Hoàng hậu Trần Thị Đang. Vị vua kiên quyết, tài năng, cải cách hành chính sâu rộng (thành lập các tỉnh), hoàn thiện chế độ quân chủ tập quyền."
     },
     {
       "id": "holiday-solar-children",
@@ -238,7 +238,7 @@
       "id": "holiday-solar-thieutri-birth",
       "title": "Ngày sinh Vua Thiệu Trị",
       "date": "06-16",
-      "story": "Nhà Nguyễn - Thiệu Trị (Nguyễn Phúc Miên Tông). Con trưởng của vua Minh Mạng. Ông là vị vua hiền lành, giỏi thơ văn, tiếp tục các chính sách của vua cha nhưng mềm dẻo hơn."
+      "story": "Nhà Nguyễn - Thiệu Trị (Nguyễn Phúc Miên Tông). Sinh ngày 16/6/1807. Con trưởng của vua Minh Mạng và Tá Thiên Nhân Hoàng hậu Hồ Thị Hoa. Ông là vị vua hiền lành, giỏi thi văn, để lại tập thơ 'Thiệu Trị vịnh' nổi tiếng và duy trì chính sách của vua cha."
     },
     {
       "id": "holiday-solar-journalism",
@@ -262,7 +262,7 @@
       "id": "holiday-solar-hamnghi-birth",
       "title": "Ngày sinh Vua Hàm Nghi",
       "date": "08-03",
-      "story": "Nhà Nguyễn - Hàm Nghi (Nguyễn Phúc Ưng Lịch). Em trai vua Kiến Phúc. Vị vua trẻ tuổi yêu nước đã dũng cảm rời bỏ kinh thành, phát chiếu Cần Vương kêu gọi văn thân sĩ phu chống Pháp, trở thành biểu tượng của tinh thần kháng chiến."
+      "story": "Nhà Nguyễn - Hàm Nghi (Nguyễn Phúc Ưng Lịch). Sinh ngày 3/8/1871. Em ruột vua Kiến Phúc, con của Kiên Thái Vương Hồng Cai và bà Phan Thị Nhàn. Vị vua yêu nước đã rời kinh thành phát chiếu Cần Vương, lãnh đạo phong trào kháng chiến chống Pháp oanh liệt."
     },
     {
       "id": "holiday-solar-revolution",
@@ -280,7 +280,7 @@
       "id": "holiday-solar-duytan-birth",
       "title": "Ngày sinh Vua Duy Tân",
       "date": "09-19",
-      "story": "Nhà Nguyễn - Duy Tân (Nguyễn Phúc Vĩnh San). Con thứ 5 của vua Thành Thái. Lên ngôi khi mới 7 tuổi nhưng sớm bộc lộ khí phách. Câu nói 'Nước dơ thì lấy máu mà rửa' thể hiện quyết tâm giành độc lập. Ông mưu toan khởi nghĩa nhưng thất bại và bị lưu đày."
+      "story": "Nhà Nguyễn - Duy Tân (Nguyễn Phúc Vĩnh San). Sinh ngày 19/9/1900. Con thứ 5 của vua Thành Thái. Lên ngôi khi 7 tuổi nhưng sớm bộc lộ tư chất thông minh, khí phách. Ông cùng Thái Phiên, Trần Cao Vân mưu toan khởi nghĩa nhưng thất bại và bị đày sang đảo Réunion."
     },
     {
       "id": "holiday-solar-elderly",
@@ -322,7 +322,7 @@
       "id": "holiday-solar-baodai-birth",
       "title": "Ngày sinh Vua Bảo Đại",
       "date": "10-22",
-      "story": "Nhà Nguyễn - Bảo Đại (Nguyễn Phúc Vĩnh Thụy). Con duy nhất của vua Khải Định. Vị hoàng đế cuối cùng của triều Nguyễn và chế độ phong kiến Việt Nam. Ông thoái vị năm 1945 trao ấn kiếm cho chính quyền Cách mạng với câu nói: 'Trẫm thà làm dân một nước độc lập hơn làm vua một nước nô lệ'."
+      "story": "Nhà Nguyễn - Bảo Đại (Nguyễn Phúc Vĩnh Thụy). Sinh ngày 22/10/1913. Con duy nhất của vua Khải Định và Đoan Huy Hoàng Thái hậu Hoàng Thị Cúc. Vị hoàng đế cuối cùng của Việt Nam, thoái vị năm 1945, chấm dứt chế độ phong kiến."
     },
     {
       "id": "holiday-solar-halloween",
@@ -334,7 +334,7 @@
       "id": "holiday-solar-hiephoa-birth",
       "title": "Ngày sinh Vua Hiệp Hòa",
       "date": "11-01",
-      "story": "Nhà Nguyễn - Hiệp Hòa (Nguyễn Phúc Hồng Dật). Con thứ 29 của vua Thiệu Trị. Ông lên ngôi trong bối cảnh triều đình rối ren, bị quyền thần ép bức và có thời gian trị vì rất ngắn."
+      "story": "Nhà Nguyễn - Hiệp Hòa (Nguyễn Phúc Hồng Dật). Sinh ngày 1/11/1847. Con thứ 29 của vua Thiệu Trị và Thụy tần Trương Thị Thận. Ông lên ngôi trong bối cảnh triều chính rối ren, bị các quyền thần Tôn Thất Thuyết và Nguyễn Văn Tường ép bức, trị vì ngắn ngủi."
     },
     {
       "id": "holiday-solar-law",
@@ -358,7 +358,7 @@
       "id": "holiday-solar-dongkhanh-birth",
       "title": "Ngày sinh Vua Đồng Khánh",
       "date": "12-19",
-      "story": "Nhà Nguyễn - Đồng Khánh (Nguyễn Phúc Ưng Đường). Con nuôi của vua Tự Đức. Lên ngôi trong bối cảnh người Pháp đã kiểm soát triều đình, ông chủ trương hòa hoãn với Pháp."
+      "story": "Nhà Nguyễn - Đồng Khánh (Nguyễn Phúc Ưng Đường). Sinh ngày 19/2/1864. Anh cả của vua Kiến Phúc và Hàm Nghi, con nuôi vua Tự Đức. Lên ngôi sau khi Hàm Nghi ra bưng biền kháng chiến, ông chủ trương hòa hoãn với Pháp."
     },
     {
       "id": "holiday-solar-army",
@@ -462,14 +462,14 @@
       "title": "Ngày sinh Vua Lý Nhân Tông",
       "m": 1,
       "d": 25,
-      "story": "Nhà Lý - Lý Nhân Tông (Lý Càn Đức). Con trưởng của Lý Thánh Tông và Nguyên phi Ỷ Lan. Ông lên ngôi khi mới 7 tuổi, là vị vua trị vì lâu nhất lịch sử Việt Nam (56 năm). Dưới thời ông, Đại Việt đánh bại quân Tống xâm lược (với bài thơ thần Nam Quốc Sơn Hà) và đạt được sự thịnh trị cực thịnh."
+      "story": "Nhà Lý - Lý Nhân Tông (Lý Càn Đức). Sinh ngày 25/1/1066. Con trưởng của Lý Thánh Tông và Nguyên phi Ỷ Lan. Lên ngôi khi mới 7 tuổi, trị vì 56 năm. Dưới sự nhiếp chính của Ỷ Lan và phò tá của Lý Thường Kiệt, ông đưa Đại Việt đạt tới đỉnh cao thịnh trị, đánh Tống bình Chiêm."
     },
     {
       "id": "holiday-lunar-lethanhtong-death",
       "title": "Ngày giỗ Vua Lê Thánh Tông",
       "m": 1,
       "d": 30,
-      "story": "Nhà Hậu Lê - Lê Thánh Tông. Vị vua văn võ song toàn, mở rộng lãnh thổ, chấn hưng giáo dục và để lại di sản văn hóa đồ sộ."
+      "story": "Nhà Hậu Lê - Lê Thánh Tông. Mất ngày 30/1 Âm lịch. Vị vua đưa chế độ phong kiến Việt Nam đạt tới đỉnh cao cực thịnh."
     },
     {
       "id": "holiday-lunar-haibatrung-death",
@@ -483,7 +483,7 @@
       "title": "Ngày sinh Vua Lý Thánh Tông",
       "m": 2,
       "d": 25,
-      "story": "Nhà Lý - Lý Thánh Tông (Lý Nhật Tôn). Con trưởng của Lý Thái Tông. Ông là vị vua đổi quốc hiệu từ Đại Cồ Việt sang Đại Việt (1054), xây dựng Văn Miếu - Quốc Tử Giám, đặt nền móng cho nền giáo dục Nho học và mở rộng lãnh thổ về phía Nam."
+      "story": "Nhà Lý - Lý Thánh Tông (Lý Nhật Tôn). Sinh ngày 25/2/1023. Con trưởng của Lý Thái Tông và Kim Thiên Hoàng hậu họ Mai. Ông đổi quốc hiệu thành Đại Việt (1054), xây Văn Miếu, mở mang bờ cõi phương Nam, nổi tiếng là vị vua nhân từ 'thương dân như con'."
     },
     {
       "id": "holiday-lunar-hanthuc",
@@ -518,7 +518,7 @@
       "title": "Ngày giỗ Vua Trần Thái Tông",
       "m": 4,
       "d": 1,
-      "story": "Nhà Trần - Trần Thái Tông. Sau khi nhường ngôi làm Thái thượng hoàng, ông chuyên tâm nghiên cứu Phật học và để lại nhiều tác phẩm giá trị như 'Khóa hư lục'."
+      "story": "Nhà Trần - Trần Thái Tông. Mất ngày 1/4 Âm lịch. Ông là vị vua mở nghiệp nhà Trần, đặt nền móng vững chắc cho hào khí Đông A."
     },
     {
       "id": "holiday-lunar-thanhgiong",
@@ -553,21 +553,21 @@
       "title": "Ngày giỗ Vua Trần Thánh Tông",
       "m": 5,
       "d": 25,
-      "story": "Nhà Trần - Trần Thánh Tông. Một vị vua hiền đức, hòa nhã, luôn đề cao tinh thần đoàn kết dân tộc qua các hội nghị Diên Hồng, Bình Than."
+      "story": "Nhà Trần - Trần Thánh Tông. Mất ngày 25/5 Âm lịch. Vị vua nhân từ, cùng cha và con đánh thắng quân Nguyên Mông."
     },
     {
       "id": "holiday-lunar-tranthaitong-birth",
       "title": "Ngày sinh Vua Trần Thái Tông",
       "m": 6,
       "d": 16,
-      "story": "Nhà Trần - Trần Thái Tông (Trần Cảnh). Con thứ của Trần Thừa, lấy Lý Chiêu Hoàng và được nhường ngôi, lập ra nhà Trần. Ông là người đặt nền móng cho hào khí Đông A, lãnh đạo quân dân Đại Việt đánh bại quân Nguyên Mông xâm lược lần thứ nhất (1258)."
+      "story": "Nhà Trần - Trần Thái Tông (Trần Cảnh). Sinh ngày 16/6/1218. Con thứ của Trần Thừa, chi họ Trần ở Tức Mặc (Nam Định). Lấy Lý Chiêu Hoàng và được nhường ngôi, lập ra nhà Trần. Ông lãnh đạo kháng chiến chống Nguyên Mông lần 1 (1258) thắng lợi và để lại nhiều tác phẩm Phật học sâu sắc."
     },
     {
       "id": "holiday-lunar-lythaitong-birth",
       "title": "Ngày sinh Vua Lý Thái Tông",
       "m": 6,
       "d": 26,
-      "story": "Nhà Lý - Lý Thái Tông (Lý Phật Mã). Con trưởng của Lý Thái Tổ. Ông là vị vua tài ba, văn võ song toàn, ban hành bộ 'Hình thư' - bộ luật thành văn đầu tiên của nước ta, củng cố sự cai trị của nhà nước phong kiến."
+      "story": "Nhà Lý - Lý Thái Tông (Lý Phật Mã). Sinh ngày 26/6/1000 tại Hoa Lư. Con trưởng của Lý Thái Tổ và bà Lê Thị Phất Ngân (con gái vua Lê Đại Hành). Ông là vị vua văn võ song toàn, ban hành bộ Hình thư đầu tiên, dẹp loạn Tam vương, đánh thắng Chiêm Thành."
     },
     {
       "id": "holiday-lunar-thattich",
@@ -588,21 +588,21 @@
       "title": "Ngày sinh Vua Lê Thánh Tông",
       "m": 7,
       "d": 20,
-      "story": "Nhà Hậu Lê - Lê Thánh Tông (Lê Tư Thành). Con thứ tư của Lê Thái Tông và bà Ngô Thị Ngọc Dao. Ông là vị vua đưa Đại Việt đạt tới đỉnh cao hoàng kim của chế độ phong kiến với bộ luật Hồng Đức và hội thơ Tao Đàn."
+      "story": "Nhà Hậu Lê - Lê Thánh Tông (Lê Tư Thành). Sinh ngày 20/7/1442. Con thứ tư của Lê Thái Tông và Quang Thục Hoàng Thái hậu Ngô Thị Ngọc Dao. Vị vua thiên tài đưa Đại Việt đạt đỉnh cao hoàng kim về luật pháp (luật Hồng Đức), văn hóa (hội Tao Đàn), giáo dục và lãnh thổ."
     },
     {
       "id": "holiday-lunar-quangtrung-death",
       "title": "Ngày giỗ Vua Quang Trung",
       "m": 7,
       "d": 29,
-      "story": "Nhà Tây Sơn - Quang Trung (Nguyễn Huệ). Ông cùng anh em Nguyễn Nhạc, Nguyễn Lữ khởi nghĩa nông dân. Là thiên tài quân sự bách chiến bách thắng, ông chỉ huy cuộc hành quân thần tốc đại phá 29 vạn quân Thanh mùa xuân Kỷ Dậu 1789. Ông cũng có những cải cách táo bạo dùng chữ Nôm làm quốc ngữ."
+      "story": "Nhà Tây Sơn - Quang Trung (Nguyễn Huệ). Mất ngày 29/7 năm Nhâm Tý (1792). Con của ông Nguyễn Phi Phúc và bà Nguyễn Thị Đồng. Người anh hùng áo vải cờ đào, thiên tài quân sự với chiến thắng Rạch Gầm - Xoài Mút và đại phá quân Thanh mùa xuân Kỷ Dậu 1789."
     },
     {
       "id": "holiday-lunar-leloi-birth",
       "title": "Ngày sinh Vua Lê Thái Tổ",
       "m": 8,
       "d": 6,
-      "story": "Nhà Hậu Lê - Lê Thái Tổ (Lê Lợi). Ông sinh tại Lam Sơn (Thanh Hóa), xuất thân từ một gia đình hào trưởng. Người anh hùng áo vải đã nếm mật nằm gai suốt 10 năm lãnh đạo khởi nghĩa Lam Sơn đánh đuổi quân Minh. Gắn liền với truyền thuyết trả gươm thần cho Rùa Vàng."
+      "story": "Nhà Hậu Lê - Lê Thái Tổ (Lê Lợi). Sinh ngày 6/8/1385 tại Lam Sơn, Thanh Hóa. Con thứ ba của Lê Khoáng và bà Trịnh Thị Thương, gia đình đời đời làm hào trưởng. Ông khởi nghĩa Lam Sơn, nếm mật nằm gai 10 năm đánh đuổi quân Minh, giành lại độc lập, lập nên triều Hậu Lê."
     },
     {
       "id": "holiday-lunar-midautumn",
@@ -630,14 +630,14 @@
       "title": "Ngày giỗ Vua Lê Thái Tổ",
       "m": 8,
       "d": 22,
-      "story": "Nhà Hậu Lê - Lê Thái Tổ. Ông là người khai sáng triều Hậu Lê, khôi phục tên nước Đại Việt, ban hành nhiều chính sách tiến bộ để phục hồi kinh tế và văn hóa sau chiến tranh tàn khốc."
+      "story": "Nhà Hậu Lê - Lê Thái Tổ. Mất ngày 22/8 Âm lịch. Vị vua khai quốc công thần, đánh đuổi quân Minh, dựng lại nước Đại Việt."
     },
     {
       "id": "holiday-lunar-tranthantong-birth",
       "title": "Ngày sinh Vua Trần Thánh Tông",
       "m": 9,
       "d": 25,
-      "story": "Nhà Trần - Trần Thánh Tông (Trần Hoảng). Con trưởng của Trần Thái Tông. Vị vua anh minh đã cùng Thượng hoàng Trần Thái Tông và con trai Trần Nhân Tông lãnh đạo đất nước chiến thắng quân Nguyên Mông lần 2 và 3, giữ vững nền độc lập."
+      "story": "Nhà Trần - Trần Thánh Tông (Trần Hoảng). Sinh ngày 25/9/1240. Con trưởng của Trần Thái Tông và Thuận Thiên Hoàng hậu (chị gái Lý Chiêu Hoàng). Vị vua anh minh đã cùng cha và con trai lãnh đạo đất nước chiến thắng quân Nguyên Mông lần 2 và 3, nổi tiếng với tinh thần hòa ái, đoàn kết dân tộc."
     },
     {
       "id": "holiday-lunar-lythaitong-death",
@@ -658,14 +658,14 @@
       "title": "Ngày giỗ Phật hoàng Trần Nhân Tông",
       "m": 11,
       "d": 3,
-      "story": "Nhà Trần - Phật hoàng Trần Nhân Tông. Sau khi hoàn thành trọng trách với non sông, ông nhường ngôi và lên núi Yên Tử tu hành, hóa Phật. Ngày mất của ông là ngày lễ lớn của Phật giáo Việt Nam."
+      "story": "Nhà Trần - Phật hoàng Trần Nhân Tông. Nhập niết bàn ngày 3/11 Âm lịch tại am Ngọa Vân. Tổ sư Thiền phái Trúc Lâm."
     },
     {
       "id": "holiday-lunar-tranhantong-birth",
       "title": "Ngày sinh Vua Trần Nhân Tông",
       "m": 11,
       "d": 11,
-      "story": "Nhà Trần - Trần Nhân Tông (Trần Khâm). Con trưởng của Trần Thánh Tông. Không chỉ là vị vua lãnh đạo kháng chiến chống Nguyên Mông vĩ đại, ông còn là nhà tư tưởng lớn, người sáng lập Thiền phái Trúc Lâm Yên Tử đậm chất Việt."
+      "story": "Nhà Trần - Trần Nhân Tông (Trần Khâm). Sinh ngày 11/11/1258. Con trưởng của Trần Thánh Tông và Nguyên Thánh Thiên Cảm Hoàng hậu Trần Thị Thiều. Vị 'Vua Phật' lãnh đạo hai cuộc kháng chiến chống Nguyên Mông vĩ đại. Sau khi nhường ngôi, ông lên Yên Tử tu hành, sáng lập Thiền phái Trúc Lâm."
     },
     {
       "id": "holiday-lunar-enlightenment",
@@ -686,7 +686,7 @@
       "title": "Ngày giỗ Vua Gia Long",
       "m": 12,
       "d": 19,
-      "story": "Nhà Nguyễn - Gia Long. Vị vua đầu tiên của triều Nguyễn, người đặt nền móng cho hệ thống luật pháp và hành chính của vương triều cuối cùng tại Việt Nam."
+      "story": "Nhà Nguyễn - Gia Long. Mất ngày 19 tháng Chạp. Vị vua thống nhất sơn hà, đặt quốc hiệu Việt Nam."
     },
     {
       "id": "holiday-lunar-thichnhathanh-death",
@@ -735,7 +735,7 @@
       "title": "Ngày giỗ Vua Minh Mạng",
       "m": 12,
       "d": 28,
-      "story": "Nhà Nguyễn - Minh Mạng. Ông là vị vua sùng Nho giáo, nghiêm khắc, cần mẫn chăm lo việc nước và để lại nhiều di sản kiến trúc, văn hóa tại Cố đô Huế."
+      "story": "Nhà Nguyễn - Minh Mạng. Mất ngày 28 tháng Chạp. Vị vua đại tài về hành chính và lập pháp, mở mang bờ cõi."
     },
     {
       "id": "holiday-lunar-tet-29",
