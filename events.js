@@ -121,6 +121,12 @@
       "story": "Ngày Liên Hợp Quốc tôn vinh quyền bình đẳng và những đóng góp của phụ nữ trên toàn cầu. Tại Việt Nam, ngày này còn là dịp kỷ niệm cuộc khởi nghĩa Hai Bà Trưng, khẳng định truyền thống anh hùng, bất khuất của phụ nữ Việt."
     },
     {
+      "id": "holiday-solar-lythaito-birth",
+      "title": "Ngày sinh Vua Lý Thái Tổ",
+      "date": "03-08",
+      "story": "Kỷ niệm ngày sinh của Vua Lý Thái Tổ (Lý Công Uẩn, 08/03/974), người khai sáng triều Lý và dời đô về Thăng Long."
+    },
+    {
       "id": "holiday-solar-thanhthai-birth",
       "title": "Ngày sinh Vua Thành Thái",
       "date": "03-14",
@@ -161,6 +167,12 @@
       "title": "Ngày Cá tháng Tư",
       "date": "04-01",
       "story": "Ngày hội vui vẻ với những lời nói dối vô hại và những trò đùa tinh nghịch. Dù không phải ngày lễ chính thức, nhưng nó mang lại tiếng cười và sự thư giãn trong đời sống văn phòng và giới trẻ."
+    },
+    {
+      "id": "holiday-solar-ngoquyen-birth",
+      "title": "Ngày sinh Vua Ngô Quyền",
+      "date": "04-17",
+      "story": "Kỷ niệm ngày sinh của Vua Ngô Quyền (17/04/898), vị vua đánh tan quân Nam Hán trên sông Bạch Đằng, mở ra kỷ nguyên độc lập."
     },
     {
       "id": "holiday-solar-earth",
@@ -376,6 +388,13 @@
       "story": "Ngày đầu tiên của năm mới Âm lịch, lễ hội lớn nhất và thiêng liêng nhất của người Việt. Là thời khắc giao hòa đất trời, đoàn viên gia đình, thờ cúng tổ tiên và cầu mong một năm mới an khang thịnh vượng."
     },
     {
+      "id": "holiday-lunar-lythanhtong-death",
+      "title": "Ngày giỗ Vua Lý Thánh Tông",
+      "m": 1,
+      "d": 1,
+      "story": "Lễ giỗ Vua Lý Thánh Tông (mất ngày Mùng 1 Tết)."
+    },
+    {
       "id": "holiday-lunar-tet-2",
       "title": "Tết Nguyên Đán (Mùng 2)",
       "m": 1,
@@ -432,6 +451,41 @@
       "story": "Rằm đầu tiên của năm mới, được coi là ngày 'Thiên quan ban phúc'. Người dân đi chùa cầu an, ăn chay. Đây cũng là Ngày Thơ Việt Nam, tôn vinh văn hóa thi ca."
     },
     {
+      "id": "holiday-lunar-ngoquyen-death",
+      "title": "Ngày giỗ Vua Ngô Quyền",
+      "m": 1,
+      "d": 18,
+      "story": "Lễ giỗ Vua Ngô Quyền (ngày 18 tháng Giêng), vị tổ trung hưng của dân tộc Việt Nam."
+    },
+    {
+      "id": "holiday-lunar-lynhantong-birth",
+      "title": "Ngày sinh Vua Lý Nhân Tông",
+      "m": 1,
+      "d": 25,
+      "story": "Ngày sinh Vua Lý Nhân Tông, vị vua trị vì lâu nhất trong lịch sử Việt Nam (56 năm)."
+    },
+    {
+      "id": "holiday-lunar-lethanhtong-death",
+      "title": "Ngày giỗ Vua Lê Thánh Tông",
+      "m": 1,
+      "d": 30,
+      "story": "Lễ giỗ Vua Lê Thánh Tông."
+    },
+    {
+      "id": "holiday-lunar-haibatrung-death",
+      "title": "Ngày giỗ Hai Bà Trưng",
+      "m": 2,
+      "d": 6,
+      "story": "Lễ giỗ Hai Bà Trưng (Trưng Trắc, Trưng Nhị), hai vị nữ anh hùng dân tộc đầu tiên phất cờ khởi nghĩa."
+    },
+    {
+      "id": "holiday-lunar-lythanhtong-birth",
+      "title": "Ngày sinh Vua Lý Thánh Tông",
+      "m": 2,
+      "d": 25,
+      "story": "Ngày sinh Vua Lý Thánh Tông, người đổi quốc hiệu thành Đại Việt."
+    },
+    {
       "id": "holiday-lunar-hanthuc",
       "title": "Tết Hàn Thực",
       "m": 3,
@@ -439,11 +493,32 @@
       "story": "Tết bánh trôi bánh chay. Người Việt làm bánh dâng cúng tổ tiên để tỏ lòng thành kính, nhắc nhở về cội nguồn và giữ gìn nếp nhà truyền thống."
     },
     {
+      "id": "holiday-lunar-lythaito-death",
+      "title": "Ngày giỗ Vua Lý Thái Tổ",
+      "m": 3,
+      "d": 3,
+      "story": "Lễ giỗ Vua Lý Thái Tổ (Lý Công Uẩn), người sáng lập triều Lý."
+    },
+    {
+      "id": "holiday-lunar-ledaihanh-death",
+      "title": "Ngày giỗ Vua Lê Đại Hành",
+      "m": 3,
+      "d": 8,
+      "story": "Lễ giỗ Vua Lê Đại Hành (Lê Hoàn), người phá Tống bình Chiêm, xây dựng nền độc lập."
+    },
+    {
       "id": "holiday-lunar-hungking",
       "title": "Giỗ tổ Hùng Vương",
       "m": 3,
       "d": 10,
       "story": "Ngày Quốc giỗ của dân tộc Việt Nam. Hàng triệu người hành hương về Đền Hùng (Phú Thọ) để tri ân công đức dựng nước của các Vua Hùng, khẳng định sự đoàn kết đồng bào."
+    },
+    {
+      "id": "holiday-lunar-tranthaitong-death",
+      "title": "Ngày giỗ Vua Trần Thái Tông",
+      "m": 4,
+      "d": 1,
+      "story": "Lễ giỗ Vua Trần Thái Tông."
     },
     {
       "id": "holiday-lunar-thanhgiong",
@@ -474,6 +549,27 @@
       "story": "Tết 'diệt sâu bọ', diễn ra vào ngày khí dương thịnh nhất. Người dân ăn rượu nếp, hoa quả chua để phòng trừ bệnh tật, cầu mong mùa màng bội thu, sức khỏe dồi dào."
     },
     {
+      "id": "holiday-lunar-tranthantong-death",
+      "title": "Ngày giỗ Vua Trần Thánh Tông",
+      "m": 5,
+      "d": 25,
+      "story": "Lễ giỗ Vua Trần Thánh Tông."
+    },
+    {
+      "id": "holiday-lunar-tranthaitong-birth",
+      "title": "Ngày sinh Vua Trần Thái Tông",
+      "m": 6,
+      "d": 16,
+      "story": "Ngày sinh Vua Trần Thái Tông (Trần Cảnh), vị vua đầu tiên của triều Trần."
+    },
+    {
+      "id": "holiday-lunar-lythaitong-birth",
+      "title": "Ngày sinh Vua Lý Thái Tông",
+      "m": 6,
+      "d": 26,
+      "story": "Ngày sinh Vua Lý Thái Tông (Lý Phật Mã), vị vua thứ hai của triều Lý."
+    },
+    {
       "id": "holiday-lunar-thattich",
       "title": "Lễ Thất Tịch",
       "m": 7,
@@ -488,11 +584,39 @@
       "story": "Ngày báo hiếu cha mẹ, với nghi thức bông hồng cài áo đầy xúc động. Trùng với ngày Xá tội vong nhân, người dân cúng chúng sinh để bố thí cho các linh hồn cô quạnh."
     },
     {
+      "id": "holiday-lunar-lethanhtong-birth",
+      "title": "Ngày sinh Vua Lê Thánh Tông",
+      "m": 7,
+      "d": 20,
+      "story": "Ngày sinh Vua Lê Thánh Tông, vị vua đưa Đại Việt đạt tới đỉnh cao thịnh trị."
+    },
+    {
+      "id": "holiday-lunar-quangtrung-death",
+      "title": "Ngày giỗ Vua Quang Trung",
+      "m": 7,
+      "d": 29,
+      "story": "Lễ giỗ Vua Quang Trung (Nguyễn Huệ), thiên tài quân sự bách chiến bách thắng."
+    },
+    {
+      "id": "holiday-lunar-leloi-birth",
+      "title": "Ngày sinh Vua Lê Thái Tổ",
+      "m": 8,
+      "d": 6,
+      "story": "Ngày sinh Vua Lê Thái Tổ (Lê Lợi), lãnh tụ khởi nghĩa Lam Sơn."
+    },
+    {
       "id": "holiday-lunar-midautumn",
       "title": "Tết Trung Thu",
       "m": 8,
       "d": 15,
       "story": "Tết của thiếu nhi và sự đoàn viên. Trẻ em rước đèn, phá cỗ, xem múa lân. Người lớn thưởng trà, ăn bánh nướng bánh dẻo và ngắm trăng tròn vành vạnh."
+    },
+    {
+      "id": "holiday-lunar-dinhtienhoang-death",
+      "title": "Ngày giỗ Vua Đinh Tiên Hoàng",
+      "m": 8,
+      "d": 15,
+      "story": "Lễ giỗ Vua Đinh Tiên Hoàng (Đinh Bộ Lĩnh), người dẹp loạn 12 sứ quân, thống nhất đất nước."
     },
     {
       "id": "holiday-lunar-kiepbac",
@@ -502,6 +626,27 @@
       "story": "Lễ hội đền Kiếp Bạc tưởng nhớ Hưng Đạo Đại Vương Trần Quốc Tuấn. Nổi tiếng với các nghi lễ đậm chất tâm linh và hào khí quân sự thời Trần."
     },
     {
+      "id": "holiday-lunar-leloi-death",
+      "title": "Ngày giỗ Vua Lê Thái Tổ",
+      "m": 8,
+      "d": 22,
+      "story": "Lễ giỗ Vua Lê Thái Tổ (Lê Lợi)."
+    },
+    {
+      "id": "holiday-lunar-tranthantong-birth",
+      "title": "Ngày sinh Vua Trần Thánh Tông",
+      "m": 9,
+      "d": 25,
+      "story": "Ngày sinh Vua Trần Thánh Tông, vị vua cùng cha lãnh đạo kháng chiến chống Nguyên Mông lần 2 và 3."
+    },
+    {
+      "id": "holiday-lunar-lythaitong-death",
+      "title": "Ngày giỗ Vua Lý Thái Tông",
+      "m": 10,
+      "d": 1,
+      "story": "Lễ giỗ Vua Lý Thái Tông, người ban hành bộ Hình thư đầu tiên của Việt Nam."
+    },
+    {
       "id": "holiday-lunar-hiephoa-death",
       "title": "Ngày giỗ Vua Hiệp Hòa",
       "m": 10,
@@ -509,11 +654,32 @@
       "story": "Lễ giỗ Vua Hiệp Hòa (mất ngày 30 tháng 10 năm Quý Mùi)."
     },
     {
+      "id": "holiday-lunar-tranhantong-death",
+      "title": "Ngày giỗ Phật hoàng Trần Nhân Tông",
+      "m": 11,
+      "d": 3,
+      "story": "Lễ giỗ Phật hoàng Trần Nhân Tông (nhập niết bàn tại am Ngọa Vân)."
+    },
+    {
+      "id": "holiday-lunar-tranhantong-birth",
+      "title": "Ngày sinh Vua Trần Nhân Tông",
+      "m": 11,
+      "d": 11,
+      "story": "Ngày sinh Phật hoàng Trần Nhân Tông, vị vua anh minh và người sáng lập Thiền phái Trúc Lâm."
+    },
+    {
       "id": "holiday-lunar-enlightenment",
       "title": "Lễ Phật Thành Đạo",
       "m": 12,
       "d": 8,
       "story": "Ngày kỷ niệm Đức Phật Thích Ca Mâu Ni đạt được giác ngộ dưới gốc cây Bồ Đề. Đây là ngày lễ quan trọng trong Phật giáo."
+    },
+    {
+      "id": "holiday-lunar-lynhantong-death",
+      "title": "Ngày giỗ Vua Lý Nhân Tông",
+      "m": 12,
+      "d": 12,
+      "story": "Lễ giỗ Vua Lý Nhân Tông."
     },
     {
       "id": "holiday-lunar-gialong-death",
