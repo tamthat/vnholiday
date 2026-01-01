@@ -13,10 +13,46 @@
       "story": "Ngày tôn vinh Louis Braille và nâng cao nhận thức về tầm quan trọng của chữ nổi đối với người khiếm thị, giúp họ tiếp cận thông tin và hòa nhập xã hội."
     },
     {
+      "id": "holiday-solar-isaac-newton-birth",
+      "title": "Ngày sinh Isaac Newton",
+      "date": "01-04",
+      "story": "Kỷ niệm ngày sinh của Isaac Newton (1643), nhà vật lý, toán học, thiên văn học thiên tài người Anh, người đặt nền móng cho cơ học cổ điển và định luật vạn vật hấp dẫn."
+    },
+    {
+      "id": "holiday-solar-stephen-hawking-birth",
+      "title": "Ngày sinh Stephen Hawking",
+      "date": "01-08",
+      "story": "Kỷ niệm ngày sinh của Stephen Hawking (1942), nhà vật lý lý thuyết, vũ trụ học vĩ đại, người đã mở ra những hiểu biết sâu sắc về hố đen và nguồn gốc vũ trụ."
+    },
+    {
       "id": "holiday-solar-students",
       "title": "Ngày Truyền thống Học sinh Sinh viên",
       "date": "01-09",
       "story": "Kỷ niệm cuộc biểu tình của học sinh, sinh viên Sài Gòn năm 1950 và sự hy sinh của anh hùng Trần Văn Ơn. Ngày này tôn vinh tinh thần yêu nước, hiếu học và vai trò xung kích của giới trí thức trẻ Việt Nam trong sự nghiệp xây dựng và bảo vệ tổ quốc."
+    },
+    {
+      "id": "holiday-solar-martinlutherking-birth",
+      "title": "Ngày sinh Martin Luther King Jr.",
+      "date": "01-15",
+      "story": "Kỷ niệm ngày sinh của Martin Luther King Jr. (1929), nhà hoạt động nhân quyền vĩ đại người Mỹ, người đoạt giải Nobel Hòa bình cho cuộc đấu tranh chống phân biệt chủng tộc bằng phương pháp bất bạo động."
+    },
+    {
+      "id": "holiday-solar-benjamin-franklin-birth",
+      "title": "Ngày sinh Benjamin Franklin",
+      "date": "01-17",
+      "story": "Kỷ niệm ngày sinh của Benjamin Franklin (1706), một trong những Kiến quốc Phụ của Hoa Kỳ, nhà khoa học, nhà phát minh, và nhà ngoại giao lỗi lạc."
+    },
+    {
+      "id": "holiday-solar-lenin-death",
+      "title": "Ngày mất Vladimir Lenin",
+      "date": "01-21",
+      "story": "Tưởng niệm ngày mất của Vladimir Lenin (1924), lãnh tụ vĩ đại của Cách mạng Tháng Mười Nga, người sáng lập Nhà nước Xô viết và là nhà tư tưởng lỗi lạc của phong trào cộng sản quốc tế."
+    },
+    {
+      "id": "holiday-solar-thichnhathanh-death",
+      "title": "Ngày viên tịch Thiền sư Thích Nhất Hạnh",
+      "date": "01-22",
+      "story": "Tưởng niệm ngày viên tịch của Thiền sư Thích Nhất Hạnh (2022), bậc thầy tâm linh có ảnh hưởng toàn cầu, người tiên phong truyền bá pháp môn Chánh niệm và Đạo Phật dấn thân."
     },
     {
       "id": "holiday-solar-education",
@@ -29,6 +65,18 @@
       "title": "Ngày Quốc tế Kỷ niệm Nạn nhân bị diệt chủng Holocaust",
       "date": "01-27",
       "story": "Ngày tưởng niệm các nạn nhân của thảm họa diệt chủng Holocaust, nhắc nhở nhân loại về hậu quả của sự thù ghét và phân biệt đối xử."
+    },
+    {
+      "id": "holiday-solar-mozart-birth",
+      "title": "Ngày sinh Wolfgang Amadeus Mozart",
+      "date": "01-27",
+      "story": "Kỷ niệm ngày sinh của Wolfgang Amadeus Mozart (1756), nhà soạn nhạc thiên tài người Áo, một trong những nhạc sĩ vĩ đại và có ảnh hưởng nhất trong lịch sử âm nhạc cổ điển phương Tây."
+    },
+    {
+      "id": "holiday-solar-gandhi-death",
+      "title": "Ngày mất Mahatma Gandhi",
+      "date": "01-30",
+      "story": "Tưởng niệm ngày mất của Mahatma Gandhi (1948), vị lãnh tụ tinh thần của Ấn Độ, người lãnh đạo phong trào giành độc lập bằng phương pháp bất bạo động (Satyagraha)."
     },
     {
       "id": "holiday-solar-party",
