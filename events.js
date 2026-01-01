@@ -94,7 +94,7 @@
       "id": "holiday-solar-gialong-birth",
       "title": "Ngày sinh Vua Gia Long",
       "date": "02-08",
-      "story": "Kỷ niệm ngày sinh của Vua Gia Long (Nguyễn Phúc Ánh, sinh ngày 08/02/1762), vị hoàng đế sáng lập triều Nguyễn."
+      "story": "Ngày sinh Vua Gia Long (Nguyễn Phúc Ánh). Sau nhiều năm nội chiến, ông đã thống nhất đất nước từ Bắc chí Nam, đặt lại quốc hiệu là Việt Nam, xác lập chủ quyền lãnh thổ rộng lớn."
     },
     {
       "id": "holiday-solar-kienphuc-birth",
@@ -124,13 +124,13 @@
       "id": "holiday-solar-lythaito-birth",
       "title": "Ngày sinh Vua Lý Thái Tổ",
       "date": "03-08",
-      "story": "Kỷ niệm ngày sinh của Vua Lý Thái Tổ (Lý Công Uẩn, 08/03/974), người khai sáng triều Lý và dời đô về Thăng Long."
+      "story": "Kỷ niệm ngày sinh Vua Lý Thái Tổ (Lý Công Uẩn). Ông là người khai sáng triều Lý và có tầm nhìn thiên tài khi dời đô từ Hoa Lư về Thăng Long (Hà Nội ngày nay) năm 1010 với 'Chiếu Dời Đô' bất hủ, mở ra thời kỳ hưng thịnh rực rỡ của văn minh Đại Việt."
     },
     {
       "id": "holiday-solar-thanhthai-birth",
       "title": "Ngày sinh Vua Thành Thái",
       "date": "03-14",
-      "story": "Kỷ niệm ngày sinh của Vua Thành Thái (Nguyễn Phúc Bửu Lân, sinh ngày 14/03/1879), vị vua có tinh thần chống Pháp."
+      "story": "Ngày sinh Vua Thành Thái. Một vị vua có tư tưởng canh tân và tinh thần chống Pháp ngầm, thường vi hành để hiểu đời sống dân chúng và bị thực dân Pháp ép thoái vị."
     },
     {
       "id": "holiday-solar-happy",
@@ -172,7 +172,7 @@
       "id": "holiday-solar-ngoquyen-birth",
       "title": "Ngày sinh Vua Ngô Quyền",
       "date": "04-17",
-      "story": "Kỷ niệm ngày sinh của Vua Ngô Quyền (17/04/898), vị vua đánh tan quân Nam Hán trên sông Bạch Đằng, mở ra kỷ nguyên độc lập."
+      "story": "Kỷ niệm ngày sinh Vua Ngô Quyền (898). Ông là người lãnh đạo chiến thắng Bạch Đằng lịch sử năm 938, đóng cọc gỗ xuống lòng sông để tiêu diệt quân Nam Hán. Chiến thắng này đã chấm dứt hơn 1000 năm Bắc thuộc, mở ra kỷ nguyên độc lập tự chủ lâu dài cho dân tộc."
     },
     {
       "id": "holiday-solar-earth",
@@ -214,7 +214,7 @@
       "id": "holiday-solar-minhmang-birth",
       "title": "Ngày sinh Vua Minh Mạng",
       "date": "05-25",
-      "story": "Kỷ niệm ngày sinh của Vua Minh Mạng (Nguyễn Phúc Đảm, sinh ngày 25/05/1791), vị vua thứ hai của triều Nguyễn."
+      "story": "Ngày sinh Vua Minh Mạng. Vị vua cải cách hành chính đại tài, chia cả nước thành 30 tỉnh và 1 phủ, hoàn thiện bộ máy nhà nước, khẳng định chủ quyền biển đảo tại Hoàng Sa - Trường Sa."
     },
     {
       "id": "holiday-solar-children",
@@ -262,7 +262,7 @@
       "id": "holiday-solar-hamnghi-birth",
       "title": "Ngày sinh Vua Hàm Nghi",
       "date": "08-03",
-      "story": "Kỷ niệm ngày sinh của Vua Hàm Nghi (Nguyễn Phúc Ưng Lịch, sinh ngày 03/08/1871), vị vua yêu nước."
+      "story": "Ngày sinh Vua Hàm Nghi. Vị vua trẻ tuổi yêu nước đã phát chiếu Cần Vương, kêu gọi văn thân sĩ phu đứng lên chống Pháp, trở thành ngọn cờ đầu của phong trào yêu nước cuối thế kỷ 19."
     },
     {
       "id": "holiday-solar-revolution",
@@ -280,7 +280,7 @@
       "id": "holiday-solar-duytan-birth",
       "title": "Ngày sinh Vua Duy Tân",
       "date": "09-19",
-      "story": "Kỷ niệm ngày sinh của Vua Duy Tân (Nguyễn Phúc Vĩnh San, sinh ngày 19/09/1900), vị vua trẻ tuổi yêu nước."
+      "story": "Ngày sinh Vua Duy Tân. 'Nước dơ thì lấy máu mà rửa' - câu nói nổi tiếng thể hiện khí phách của vị vua trẻ mưu toan khởi nghĩa chống Pháp nhưng bất thành và bị lưu đày biệt xứ."
     },
     {
       "id": "holiday-solar-elderly",
@@ -455,14 +455,14 @@
       "title": "Ngày giỗ Vua Ngô Quyền",
       "m": 1,
       "d": 18,
-      "story": "Lễ giỗ Vua Ngô Quyền (ngày 18 tháng Giêng), vị tổ trung hưng của dân tộc Việt Nam."
+      "story": "Ngày giỗ Vua Ngô Quyền, vị Tổ trung hưng của Việt Nam. Sau chiến thắng Bạch Đằng, ông xưng Vương, bãi bỏ chức Tiết độ sứ, định đô ở Cổ Loa, đặt nền móng cho một quốc gia độc lập."
     },
     {
       "id": "holiday-lunar-lynhantong-birth",
       "title": "Ngày sinh Vua Lý Nhân Tông",
       "m": 1,
       "d": 25,
-      "story": "Ngày sinh Vua Lý Nhân Tông, vị vua trị vì lâu nhất trong lịch sử Việt Nam (56 năm)."
+      "story": "Ngày sinh Vua Lý Nhân Tông, vị vua trị vì lâu nhất lịch sử Việt Nam (56 năm). Dưới thời ông, Đại Việt đánh bại quân Tống xâm lược (với bài thơ thần Nam Quốc Sơn Hà) và đạt được sự thịnh trị về mọi mặt."
     },
     {
       "id": "holiday-lunar-lethanhtong-death",
@@ -476,14 +476,14 @@
       "title": "Ngày giỗ Hai Bà Trưng",
       "m": 2,
       "d": 6,
-      "story": "Lễ giỗ Hai Bà Trưng (Trưng Trắc, Trưng Nhị), hai vị nữ anh hùng dân tộc đầu tiên phất cờ khởi nghĩa."
+      "story": "Ngày giỗ Hai Bà Trưng (Trưng Trắc, Trưng Nhị). Cuộc khởi nghĩa của hai Bà năm 40 CN đã đập tan chính quyền đô hộ nhà Đông Hán, giành lại độc lập cho dân tộc. Câu nói 'Giặc đến nhà đàn bà cũng đánh' và lời thề Hát Môn đã trở thành biểu tượng bất diệt cho tinh thần bất khuất của phụ nữ Việt Nam."
     },
     {
       "id": "holiday-lunar-lythanhtong-birth",
       "title": "Ngày sinh Vua Lý Thánh Tông",
       "m": 2,
       "d": 25,
-      "story": "Ngày sinh Vua Lý Thánh Tông, người đổi quốc hiệu thành Đại Việt."
+      "story": "Ngày sinh Vua Lý Thánh Tông. Ông là vị vua đổi quốc hiệu từ Đại Cồ Việt sang Đại Việt, xây dựng Văn Miếu - Quốc Tử Giám, đặt nền móng cho nền giáo dục Nho học và mở rộng lãnh thổ về phía Nam."
     },
     {
       "id": "holiday-lunar-hanthuc",
@@ -497,14 +497,14 @@
       "title": "Ngày giỗ Vua Lý Thái Tổ",
       "m": 3,
       "d": 3,
-      "story": "Lễ giỗ Vua Lý Thái Tổ (Lý Công Uẩn), người sáng lập triều Lý."
+      "story": "Ngày giỗ Vua Lý Thái Tổ, vị vua nhân từ, sùng bái đạo Phật và yêu thương dân chúng. Triều đại của ông đánh dấu sự phát triển mạnh mẽ của văn hóa, giáo dục và sự ổn định chính trị."
     },
     {
       "id": "holiday-lunar-ledaihanh-death",
       "title": "Ngày giỗ Vua Lê Đại Hành",
       "m": 3,
       "d": 8,
-      "story": "Lễ giỗ Vua Lê Đại Hành (Lê Hoàn), người phá Tống bình Chiêm, xây dựng nền độc lập."
+      "story": "Ngày giỗ Vua Lê Đại Hành (Lê Hoàn). Ông là vị tướng tài ba phá Tống bình Chiêm, giữ vững bờ cõi. Ông cũng là vị vua đầu tiên đích thân cầm cày trong lễ Tịch điền để khuyến khích nông nghiệp, coi trọng 'dĩ nông vi bản'."
     },
     {
       "id": "holiday-lunar-hungking",
@@ -560,7 +560,7 @@
       "title": "Ngày sinh Vua Trần Thái Tông",
       "m": 6,
       "d": 16,
-      "story": "Ngày sinh Vua Trần Thái Tông (Trần Cảnh), vị vua đầu tiên của triều Trần."
+      "story": "Ngày sinh Vua Trần Thái Tông (Trần Cảnh), vị vua đầu tiên của triều Trần. Ông là người đặt nền móng cho hào khí Đông A, lãnh đạo quân dân Đại Việt đánh bại quân Nguyên Mông xâm lược lần thứ nhất (1258)."
     },
     {
       "id": "holiday-lunar-lythaitong-birth",
@@ -588,21 +588,21 @@
       "title": "Ngày sinh Vua Lê Thánh Tông",
       "m": 7,
       "d": 20,
-      "story": "Ngày sinh Vua Lê Thánh Tông, vị vua đưa Đại Việt đạt tới đỉnh cao thịnh trị."
+      "story": "Ngày sinh Vua Lê Thánh Tông, vị vua đưa Đại Việt đạt tới đỉnh cao hoàng kim của chế độ phong kiến. Ông ban hành bộ luật Hồng Đức, vẽ bản đồ Hồng Đức và sáng lập hội thơ Tao Đàn."
     },
     {
       "id": "holiday-lunar-quangtrung-death",
       "title": "Ngày giỗ Vua Quang Trung",
       "m": 7,
       "d": 29,
-      "story": "Lễ giỗ Vua Quang Trung (Nguyễn Huệ), thiên tài quân sự bách chiến bách thắng."
+      "story": "Ngày giỗ Vua Quang Trung (Nguyễn Huệ). Thiên tài quân sự bách chiến bách thắng, người đã chỉ huy cuộc hành quân thần tốc ra Bắc đại phá 29 vạn quân Thanh vào mùa xuân Kỷ Dậu 1789. Ông còn có những cải cách táo bạo về văn hóa như dùng chữ Nôm làm quốc ngữ."
     },
     {
       "id": "holiday-lunar-leloi-birth",
       "title": "Ngày sinh Vua Lê Thái Tổ",
       "m": 8,
       "d": 6,
-      "story": "Ngày sinh Vua Lê Thái Tổ (Lê Lợi), lãnh tụ khởi nghĩa Lam Sơn."
+      "story": "Ngày sinh Vua Lê Thái Tổ (Lê Lợi). Người anh hùng áo vải Lam Sơn đã nếm mật nằm gai suốt 10 năm để lãnh đạo cuộc khởi nghĩa đánh đuổi quân Minh. Gắn liền với truyền thuyết trả gươm thần cho Rùa Vàng tại hồ Hoàn Kiếm."
     },
     {
       "id": "holiday-lunar-midautumn",
@@ -616,7 +616,7 @@
       "title": "Ngày giỗ Vua Đinh Tiên Hoàng",
       "m": 8,
       "d": 15,
-      "story": "Lễ giỗ Vua Đinh Tiên Hoàng (Đinh Bộ Lĩnh), người dẹp loạn 12 sứ quân, thống nhất đất nước."
+      "story": "Ngày giỗ Vua Đinh Tiên Hoàng (Đinh Bộ Lĩnh). Ông là người có công dẹp loạn 12 sứ quân, thống nhất giang sơn, xưng Hoàng đế và đặt quốc hiệu là Đại Cồ Việt. Giai thoại 'Cờ lau tập trận' gắn liền với tuổi thơ hào hùng và tài năng quân sự bẩm sinh của ông."
     },
     {
       "id": "holiday-lunar-kiepbac",
@@ -630,14 +630,14 @@
       "title": "Ngày giỗ Vua Lê Thái Tổ",
       "m": 8,
       "d": 22,
-      "story": "Lễ giỗ Vua Lê Thái Tổ (Lê Lợi)."
+      "story": "Ngày giỗ Vua Lê Thái Tổ. Ông là người khai sáng triều Hậu Lê, khôi phục tên nước Đại Việt, ban hành nhiều chính sách tiến bộ để phục hồi kinh tế và văn hóa sau chiến tranh."
     },
     {
       "id": "holiday-lunar-tranthantong-birth",
       "title": "Ngày sinh Vua Trần Thánh Tông",
       "m": 9,
       "d": 25,
-      "story": "Ngày sinh Vua Trần Thánh Tông, vị vua cùng cha lãnh đạo kháng chiến chống Nguyên Mông lần 2 và 3."
+      "story": "Ngày sinh Vua Trần Thánh Tông. Vị vua anh minh đã cùng Thượng hoàng Trần Thái Tông và con trai Trần Nhân Tông lãnh đạo đất nước chiến thắng quân Nguyên Mông lần 2 và 3, giữ vững nền độc lập."
     },
     {
       "id": "holiday-lunar-lythaitong-death",
@@ -658,14 +658,14 @@
       "title": "Ngày giỗ Phật hoàng Trần Nhân Tông",
       "m": 11,
       "d": 3,
-      "story": "Lễ giỗ Phật hoàng Trần Nhân Tông (nhập niết bàn tại am Ngọa Vân)."
+      "story": "Ngày giỗ Phật hoàng Trần Nhân Tông (nhập niết bàn tại am Ngọa Vân). Đây là ngày lễ lớn của Phật giáo Việt Nam, tưởng nhớ vị vua đã rũ bỏ ngai vàng để tìm kiếm sự giải thoát và an lạc cho tinh thần dân tộc."
     },
     {
       "id": "holiday-lunar-tranhantong-birth",
       "title": "Ngày sinh Vua Trần Nhân Tông",
       "m": 11,
       "d": 11,
-      "story": "Ngày sinh Phật hoàng Trần Nhân Tông, vị vua anh minh và người sáng lập Thiền phái Trúc Lâm."
+      "story": "Ngày sinh Phật hoàng Trần Nhân Tông. Không chỉ là vị vua lãnh đạo kháng chiến chống Nguyên Mông vĩ đại với hội nghị Diên Hồng, ông còn là nhà tư tưởng lớn, người sáng lập Thiền phái Trúc Lâm Yên Tử đậm chất Việt."
     },
     {
       "id": "holiday-lunar-enlightenment",
@@ -735,7 +735,7 @@
       "title": "Ngày giỗ Vua Minh Mạng",
       "m": 12,
       "d": 28,
-      "story": "Tưởng niệm ngày mất của Vua Minh Mạng (ngày 28 tháng Chạp năm Canh Tý - 1841). Ông là vị hoàng đế thứ hai của triều Nguyễn, người có công lớn trong việc cải cách hành chính và mở rộng lãnh thổ."
+      "story": "Ngày giỗ Vua Minh Mạng. Ông là vị vua sùng Nho giáo, nghiêm khắc nhưng rất chăm lo việc nước, để lại nhiều di sản kiến trúc và văn hóa tại Cố đô Huế."
     },
     {
       "id": "holiday-lunar-tet-29",
