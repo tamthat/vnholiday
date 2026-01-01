@@ -49,22 +49,10 @@
       "story": "Kỷ niệm ngày sinh của Benjamin Franklin (1706), một trong những Kiến quốc Phụ của Hoa Kỳ, nhà khoa học, nhà phát minh, và nhà ngoại giao lỗi lạc."
     },
     {
-      "id": "holiday-solar-minhmang-death",
-      "title": "Ngày mất Vua Minh Mạng",
-      "date": "01-20",
-      "story": "Tưởng niệm ngày mất của Vua Minh Mạng (1841), vị hoàng đế thứ hai của triều Nguyễn, người có công lớn trong việc cải cách hành chính và mở rộng lãnh thổ."
-    },
-    {
       "id": "holiday-solar-lenin-death",
       "title": "Ngày mất Vladimir Lenin",
       "date": "01-21",
       "story": "Tưởng niệm ngày mất của Vladimir Lenin (1924), lãnh tụ vĩ đại của Cách mạng Tháng Mười Nga, người sáng lập Nhà nước Xô viết và là nhà tư tưởng lỗi lạc của phong trào cộng sản quốc tế."
-    },
-    {
-      "id": "holiday-solar-thichnhathanh-death",
-      "title": "Ngày viên tịch Thiền sư Thích Nhất Hạnh",
-      "date": "01-22",
-      "story": "Tưởng niệm ngày viên tịch của Thiền sư Thích Nhất Hạnh (2022), bậc thầy tâm linh có ảnh hưởng toàn cầu, người tiên phong truyền bá pháp môn Chánh niệm và Đạo Phật dấn thân."
     },
     {
       "id": "holiday-solar-education",
@@ -461,6 +449,13 @@
       "story": "Ngày kỷ niệm Đức Phật Thích Ca Mâu Ni đạt được giác ngộ dưới gốc cây Bồ Đề. Đây là ngày lễ quan trọng trong Phật giáo."
     },
     {
+      "id": "holiday-lunar-thichnhathanh-death",
+      "title": "Ngày viên tịch Thiền sư Thích Nhất Hạnh",
+      "m": 12,
+      "d": 20,
+      "story": "Tưởng niệm ngày viên tịch của Thiền sư Thích Nhất Hạnh (ngày 20 tháng Chạp năm Tân Sửu - 2022). Ông là bậc thầy tâm linh có ảnh hưởng toàn cầu, người tiên phong truyền bá pháp môn Chánh niệm."
+    },
+    {
       "id": "holiday-lunar-kitchengod",
       "title": "Lễ ông Công ông Táo",
       "m": 12,
@@ -487,6 +482,13 @@
       "m": 12,
       "d": 28,
       "story": "Ngày dành cho việc tảo mộ, mời ông bà tổ tiên về ăn Tết cùng con cháu. Không khí gia đình ấm cúng, sum vầy."
+    },
+    {
+      "id": "holiday-lunar-minhmang-death",
+      "title": "Ngày giỗ Vua Minh Mạng",
+      "m": 12,
+      "d": 28,
+      "story": "Tưởng niệm ngày mất của Vua Minh Mạng (ngày 28 tháng Chạp năm Canh Tý - 1841). Ông là vị hoàng đế thứ hai của triều Nguyễn, người có công lớn trong việc cải cách hành chính và mở rộng lãnh thổ."
     },
     {
       "id": "holiday-lunar-tet-29",
